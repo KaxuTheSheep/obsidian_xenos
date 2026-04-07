@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Star System/Planets/Procyon Ab/Biology/Ferrovita/Ferrovita.md",
+                "file": "Star System/Planets/Procyon Ab/Biology/Sulphovita/Sulphovita.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ferrovita"
+              "title": "Sulphovita"
             }
           }
         ],
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Star System/Planets/Procyon Ab/Biology/Ferrovita/Ferrovita.md",
+                "file": "Star System/Planets/Procyon Ab/Biology/Sulphovita/Sulphovita.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ferrovita"
+              "title": "Outgoing links from Sulphovita"
             }
           },
           {
@@ -201,12 +201,12 @@
   },
   "active": "18a817736ac622e7",
   "lastOpenFiles": [
-    "Star System/Planets/Procyon Ab/Biology/Sulphovita/Sulphovita.md",
     "Star System/Planets/Procyon Ab/Biology/Ferrovita/Ferrovita.md",
-    "Star System/Planets/Procyon Ab/Procyon Ab.md",
     "Star System/Planets/Procyon Ab/Biology/Ferrovita/Firmus Ferrovita.md",
-    "Star System/Planets/Procyon Ab/Biology/Ferrovita/Novus Ferrovita.md",
     "Star System/Planets/Procyon Ab/Atmosphere.md",
+    "Star System/Planets/Procyon Ab/Biology/Ferrovita/Novus Ferrovita.md",
+    "Star System/Planets/Procyon Ab/Biology/Sulphovita/Sulphovita.md",
+    "Star System/Planets/Procyon Ab/Procyon Ab.md",
     "Star System/Stars/Procyon B.md",
     "Star System/Stars/Procyon A.md",
     "Star System/Planets/Procyon Ab/Biology/Sulphovita",
