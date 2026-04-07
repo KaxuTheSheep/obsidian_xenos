@@ -1,0 +1,2 @@
+
+The planet's extraordinary density reflects its composition, an iron-nickel core comprising approximately $60-70$% of the planet's total volume, far exceeding Earth's proportionally smaller core. This generates an exceptionally strong magnetic field, providing partial shielding from [[Procyon B|Lethe]]'s ultraviolet output. It also means intense geothermal heat, heavy volcanism, and geologically violent surface conditions driven by iron-rich basaltic flows and active tectonics.
