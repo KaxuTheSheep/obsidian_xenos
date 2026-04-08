@@ -5,7 +5,7 @@ tags:
 # Erebian Era
 
 ## Crust and Core
-[[Procyon Ab|Xenos]] possesses an iron-nickel core comprising approximately 60–70% of its total planetary volume — far exceeding Earth's proportionally smaller core. This generates an exceptionally strong magnetic field, partially shielding the subsurface from cosmic radiation during the rogue phase, and drives intense geothermal heat throughout the crust.
+[[Procyon Ab|Xenos]] possesses an iron-nickel core comprising approximately 60–70% of its total planetary volume — far exceeding Earth's proportionally smaller core, caused by mantle stripping during early formation leaving a metal-enriched planetary body. This generates an exceptionally strong magnetic field, partially shielding the subsurface from cosmic radiation during the Erebian Era, and drives intense geothermal heat throughout the crust.
 
 The crust averages 30–50km in thickness — thinner proportionally than Earth's but significantly denser, composed primarily of iron-rich basaltic material. High surface gravity of 2.4g compresses this material into a rigid, heavy shell with limited flexibility.
 
@@ -13,20 +13,20 @@ The crust averages 30–50km in thickness — thinner proportionally than Earth'
 
 The high iron content throughout gives the crust a dark, metallic character — surfaces range from deep grey to dark bronze depending on oxidation state and mineral composition.
 
+The geological system of Xenos is fundamentally a heat-driven engine, with internal energy flux shaping both crustal dynamics and the distribution of chemical disequilibrium within the subsurface ocean.
+
 ## Volcanic Activity
 [[Procyon Ab|Xenos]] is an intensely volcanic world. The combination of a massive iron-nickel core, high geothermal heat flux, and active crustal recycling drives continuous volcanic activity across the planetary surface. During the ante capture period this activity occurs entirely beneath a frozen or near-frozen surface, venting heat and chemistry into the subsurface rather than the open [[Atmosphere]].
 
-The dominant volcanic style is shield volcanism — low, broad structures built from highly fluid iron-rich basaltic magma. High gravity and low magma viscosity prevent the construction of tall peaks, instead spreading lava flows across vast horizontal distances. Individual shield structures may span thousands of kilometres, their flanks merging into continuous volcanic plains. These plains represent the majority of [[Procyon Ab|Xenos]]'s primary crust, constantly being resurfaced by new flows and recycled at tectonic boundaries.
+The dominant volcanic style is shield volcanism — low, broad structures built from highly fluid iron-rich basaltic magma. The high surface gravity suppresses large-scale topographic variation, resulting in a landscape of low relief where even major volcanic structures rise gradually over immense horizontal distances. Individual shield structures may span thousands of kilometres, their flanks merging into continuous volcanic plains. These plains represent the majority of [[Procyon Ab|Xenos]]'s primary crust, constantly being resurfaced by new flows and recycled at tectonic boundaries.
 
-Explosive stratovolcanism occurs but is secondary — limited to regions where volatile-rich pockets accumulate sufficient pressure. These eruptions are violent and localised, contributing significantly to subsurface gas chemistry including hydrogen sulphide, methane, carbon dioxide, and sulphur dioxide.
+Explosive stratovolcanoes occurs but is secondary — limited to regions where volatile-rich pockets accumulate sufficient pressure. These eruptions are violent and localised, contributing significantly to subsurface gas chemistry including hydrogen sulphide, methane, carbon dioxide, and sulphur dioxide.
 
-Serpentinisation operates planet-wide as a continuous abiotic process — iron-rich crustal rock reacting with subsurface water to produce methane. This reaction requires no volcanic activity directly, occurring wherever water contacts the iron-dominated crust, and represents a persistent chemical energy source independent of vent activity.
+Serpentinisation operates planet-wide as a continuous abiotic process — iron-rich crustal rock reacting with subsurface water to produce methane. This reaction requires no volcanic activity directly, occurring wherever water contacts the iron-dominated crust, and represents a persistent chemical energy source independent of vent activity, contributing a continuous background flux of reduced gases to the subsurface ocean.
 
-Hydrothermal vent fields concentrate along tectonic boundaries where crustal recycling is most active. Given the global extent of tectonic activity these fields are effectively planet-wide, creating a distributed network of chemically energetic subsurface environments. It is within these vent fields that both [[Ferrovita]] and [[Sulphovita]] emerge and persist throughout the ante capture period.
+Hydrothermal vent fields concentrate along tectonic boundaries where crustal recycling is most active. Given the global extent of tectonic activity these fields are effectively planet-wide, creating a distributed network of chemically energetic subsurface environments, however only 2 regions developed and sustained life due to more stable chemical gradients required to maintained persistent disequilibrium. It is within these vent fields that both [[Ferrovita]] and [[Sulphovita]] emerge and persist throughout the ante capture period.
 
 The volcanic highlands represent zones of prolonged accumulation — regions where eruption rates have historically exceeded crustal recycling, building thicker elevated platforms above the primary basaltic plain. These highlands are geologically active but comparatively stable, and will become significant in shaping surface terrain following capture.
-
-
 ## Terrain
 During the ante capture period the surface of [[Procyon Ab|Xenos]] is defined entirely by ice. A 17km thick planetary ice shell covers the entire surface, forming a featureless frozen expanse across the majority of the planet. Beneath this shell the global subsurface ocean persists, kept liquid by geothermal heat from below.
 
