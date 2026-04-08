@@ -3,7 +3,7 @@ tags:
   - Life
 ---
 ## Overview
-Ferrovita are extremophilic, mineral-based lifeforms inhabiting the deepest hydrothermal vent zones of [[Procyon Ab|Xenos]]. Existing at the boundary between biology and [[geology]], they are not built from organic polymers but from structured iron–sulfur minerals. Their bodies grow directly from the surrounding rock, forming slow-living, crystalline systems that extract energy from redox gradients in iron-rich fluids. To outside observers, Ferrovita are nearly indistinguishable from vent formations — living structures embedded within the planet’s crust.
+Ferrovita are extremophilic, mineral-based lifeforms inhabiting the deepest hydrothermal vent zones of [[Procyon Ab|Xenos]]. Existing at the boundary between biology and [[Geology]], they are not built from organic polymers but from structured iron–sulfur minerals. Their bodies grow directly from the surrounding rock, forming slow-living, crystalline systems that extract energy from redox gradients in iron-rich fluids. To outside observers, Ferrovita are nearly indistinguishable from vent formations — living structures embedded within the planet’s crust.
 
 ## Environmental Niche
 - **Location:** Deep hydrothermal vent systems

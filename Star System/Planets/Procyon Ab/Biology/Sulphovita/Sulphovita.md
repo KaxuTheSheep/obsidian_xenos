@@ -2,7 +2,8 @@
 tags:
   - Life
 ---
-Sulphovita emerged in the peripheral zones of hydrothermal vent systems—regions that are cooler relative to vent cores, chemically diverse, and dominated by dilute sulphuric compounds rather than extreme metal-rich conditions. Although it coexists spatially with Ferrovita, it represents a completely independent origin of life with fundamentally different molecular architecture and evolutionary strategy.
+
+Sulphovita emerged in the peripheral zones of hydrothermal vent systems—regions that are cooler relative to vent cores, chemically diverse, and dominated by dilute sulphuric compounds rather than extreme metal-rich conditions. Although it coexists spatially with [[Ferrovita]], it represents a completely independent origin of life with fundamentally different molecular architecture and evolutionary strategy.
 ### **Genetics**
 Peptide-based, modular, and distributed.
 Sulphovita does not use nucleic acids or rigid mineral templates. Instead, information is encoded in **short, reusable peptide motifs** that function simultaneously as structural units and catalytic agents. These motifs do not form a single continuous genome; rather, they exist as a **dynamic network of interacting sequences**.
