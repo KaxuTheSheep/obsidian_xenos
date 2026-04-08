@@ -58,7 +58,7 @@ Dual-pathway and opportunistic.
 Sulphovita is capable of exploiting multiple redox pathways, primarily:
 - Hydrogen sulphide oxidation
 - Methane oxidation
-Energy capture in Sulphovita is distributed across the peptide network rather than centralised in dedicated pathways, with individual modules contributing to electron transfer and chemical transformation in a loosely coordinated system.
+Energy capture in Sulphovita is distributed across the peptide network rather than centralised in dedicated pathways, with individual modules contributing to electron transfer and chemical transformation via coordination through chemical gradients and concentration signals rather than centralised control.
 #### Hydrogen Sulphide Oxidation
 Sulphovita's hydrogen sulphide oxidation pathway uses H₂S as the primary electron donor, extracting energy by moving sulphur through progressive oxidation states. Environmental sulphate (SO₄²⁻) from Pocket B fluid serves as the terminal electron acceptor. The pathway proceeds stepwise:
 
@@ -136,12 +136,28 @@ The waste products of methane oxidation — H₂S, CO₂, and H₂O — are rele
 
 ### Membrane
 Sulphonolipid bilayer, flexible and chemically active.
-Sulphovita is enclosed by a membrane composed of **sulphonolipids**, analogous to phospholipids but incorporating sulphonate groups instead of phosphate. This structure is:
+Sulphovita is enclosed by a membrane composed of **sulphonolipids** — analogous to phospholipids but incorporating sulphonate groups instead of phosphate. This structure is:
 - Stable in acidic conditions
 - Flexible under high pressure
 - Chemically compatible with sulphur-rich environments
-Unlike passive biological membranes, the Sulphovita membrane participates directly in chemical processes. It acts as a **reactive interface**, facilitating the exchange and transformation of molecules between the organism and its surroundings.
-The boundary of the organism is therefore not strictly defined; it is a **zone of active chemistry** rather than a fixed barrier.
+
+The membrane is not a passive barrier but an **active interface** — embedded throughout with specialised peptide transport modules that selectively regulate molecular exchange between the organism's internal environment and Pocket B fluid. These modules are consistent with Sulphovita's broader peptide-based architecture, functioning as both structural membrane components and molecular gatekeepers simultaneously.
+
+#### Transport Mechanism
+Selectivity is achieved through **conformational matching** — each embedded peptide module maintains a specific three dimensional shape complementary to its target molecule. Only molecules matching the module's conformation can bind and be transported across the membrane. This is analogous to a lock and key system but implemented entirely in peptide chemistry rather than protein machinery.
+
+Three classes of transport module are present:
+**Import modules — inward transport**
+- **Amino acid importers** — selectively bind free amino acids synthesised abiotically in Pocket B fluid and transport them inward to the internal monomer pool, maintaining substrate availability for peptide templating
+- **Metabolic substrate importers** — selectively transport H₂S, CH₄, and SO₄²⁻ inward from Pocket B fluid, maintaining internal concentrations sufficient to sustain both oxidation pathways
+
+**Export modules — outward transport**
+- **Waste exporters** — selectively transport CO₂ and excess H₂S produced by metabolic processes outward into Pocket B fluid, preventing internal accumulation of compounds that would interfere with peptide chemistry at high concentrations
+
+#### Membrane as Reactive Interface
+Beyond transport, the sulphonolipid membrane participates directly in chemical processes at its outer surface. Sulphonate groups exposed to Pocket B fluid form transient bonds with sulphur-containing compounds, facilitating initial capture of molecules before formal import module binding occurs. This pre-capture mechanism increases the efficiency of substrate acquisition in environments where target molecule concentrations are low or fluctuating.
+
+The boundary of the organism is therefore not a fixed line but a **zone of graduated chemical activity** — most concentrated at the membrane surface, diminishing inward as molecules are captured, transported, and committed to internal metabolic pathways.
 
 ### Ecological Character
 Adaptive, unstable, and chemically integrated.
@@ -150,7 +166,7 @@ Sulphovita occupies the transitional regions between extreme vent chemistry and 
 - Mixed energy sources
 - Lower but still significant temperatures
 In this context, Sulphovita’s defining trait is not efficiency, but **adaptability**. Individual structures may be transient or unstable, but the system persists through continuous reconfiguration.
-Rather than maintaining strict individuality, Sulphovita systems may exchange components, merge, or fragment. Identity is therefore **fluid**, and survival operates at the level of chemical networks rather than discrete organisms.
+Rather than maintaining strict individuality. Rather than maintaining strict individuality, Sulphovita systems may temporarily merge during reproduction or fragment under stress, but identity is defined by peptide motif distribution rather than physical continuity. Survival operates at the level of chemical networks rather than discrete organisms.
 
 ### Reproduction
 Sulphovita reproduces through a two-phase process driven entirely by internal dynamics — no external forcing or environmental trigger is required.
