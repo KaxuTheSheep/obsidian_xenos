@@ -4,16 +4,61 @@ tags:
 ---
 ### Overview
 Sulphovita emerged in the peripheral zones of hydrothermal vent systems—regions that are cooler relative to vent cores, chemically diverse, and dominated by dilute sulphuric compounds rather than extreme metal-rich conditions. Although it coexists spatially with [[Ferrovita]], it represents a completely independent origin of life with fundamentally different molecular architecture and evolutionary strategy.
-### **Genetics**
+### Genetics
 Peptide-based, modular, and distributed.
-Sulphovita does not use nucleic acids or rigid mineral templates. Instead, information is encoded in **short, reusable peptide motifs** that function simultaneously as structural units and catalytic agents. These motifs do not form a single continuous genome; rather, they exist as a **dynamic network of interacting sequences**.
-Replication occurs through **structural templating**. Existing peptide motifs catalyse the formation of similar motifs by stabilising intermediate structures during synthesis. Fidelity is not absolute—variation is inherent and continuous.
-There is no strict separation between “genetic material” and “metabolic machinery.” The same molecules that encode functional patterns also perform the chemistry required to sustain and reproduce the system. As a result, Sulphovita does not possess a fixed genome in the traditional sense, but instead maintains a **shifting biochemical identity** defined by the current distribution of active peptide modules.
-### **Metabolism**
+
+Sulphovita does not use nucleic acids or rigid mineral templates. Instead, information is encoded in **short, reusable peptide motifs** that function simultaneously as structural units and catalytic agents. These motifs do not form a single continuous genome; rather, they exist as a **dynamic network of interacting sequences** whose collective distribution defines the biochemical identity at any given moment.
+
+There is no strict separation between genetic material and metabolic machinery. The same molecules that encode functional patterns also perform the chemistry required to sustain and reproduce the system. As a result, Sulphovita does not possess a fixed genome in the traditional sense, but instead maintains a **shifting biochemical identity** defined by the current distribution of active peptide modules.
+
+#### Structural Templating
+Replication of individual peptide motifs occurs through **conformational stabilisation** — a physical process in which an existing motif acts as a scaffold for the assembly of a similar motif from free monomers in the surrounding fluid.
+
+The process proceeds in five stages:
+
+**Stage 1 — Scaffold Presentation**
+An existing peptide motif partially unfolds within the organism's internal fluid environment, exposing its surface topology to internally available monomers. This unfolding is triggered by local chemical conditions — specifically concentration gradients in H₂S and sulphate indicating sufficient environmental resources to support replication. The sulphonolipid membrane actively imports raw amino acids from abiotically synthesised material in Pocket B fluid, maintaining an internal monomer pool available for templating. Replication occurs entirely within the membrane boundary — internal machinery is never directly exposed to external fluid.
+
+**Stage 2 — Monomer Recruitment**
+Free amino acids and short peptide fragments from the internal monomer pool are attracted to complementary regions along the exposed scaffold surface through three mechanisms:
+- **Electrostatic interactions** — charged regions attracting oppositely charged monomers
+- **Hydrophobic matching** — nonpolar regions attracting nonpolar monomers
+- **Sulphur bridging** — sulphonate groups forming transient bonds with sulphur-containing monomers, particularly significant given the sulphur-rich character of imported material
+
+Non-functional or degraded motifs are broken down internally and returned to the monomer pool rather than expelled, ensuring usable building blocks are recycled rather than wasted.
+
+**Stage 3 — Assembly and Condensation**
+Recruited monomers condense along the scaffold surface, forming peptide bonds sequentially. The scaffold stabilises intermediate structures that would otherwise be too unstable to persist long enough to complete assembly — this is the critical catalytic role of the template. Without the scaffold these assemblies would dissolve back into the fluid before achieving functional length.
+
+**Stage 4 — Folding and Detachment**
+Once sufficient length is achieved the assembling peptide begins folding into its own conformation, driven by the same chemical forces maintaining the template's shape. Folding generates mechanical stress that eventually detaches the new motif from the scaffold as an independent functional unit.
+
+**Stage 5 — Scaffold Restoration**
+The template refolds into its active conformation and resumes normal metabolic function. A single template can perform multiple replication cycles sequentially, limited only by monomer availability and thermal stability.
+
+Under optimal conditions — high substrate availability, stable temperature, active fluid chemistry — a single templating cycle completes in approximately **6–24 hours**. Under suboptimal conditions this extends to days.
+
+#### Sources of Variation
+Fidelity is not absolute. Variation is introduced continuously through four mechanisms:
+
+**Thermal noise** — the most common source. Temperature fluctuations across Pocket B's 50–120°C range cause scaffold conformations to shift slightly between replication cycles. A scaffold folding slightly differently presents a subtly different surface topology, recruiting monomers in a slightly different arrangement. Most thermal variations are minor and produce functional but subtly different motifs.
+
+**Monomer scarcity** — common and evolutionarily significant. If a specific amino acid is scarce during assembly, a chemically similar substitute may be incorporated. This scarcity-driven substitution is Sulphovita's most significant source of adaptive variation — it can produce motifs with genuinely different catalytic properties rather than merely structural ones.
+
+**Sulphur bridge errors** — occasional. Transient sulphur bonds that normally guide assembly persist longer than intended, cross-linking regions that should remain separate. Usually produces non-functional motifs that dissolve back into the fluid, but occasionally produces novel stable configurations with unexpected properties.
+
+**Fluid turbulence** — rare. Physical disruption during Stage 3 causes partial assemblies to detach prematurely, producing truncated motifs. Most are non-functional, but short functional motifs with novel properties occasionally result.
+
+#### Replication Speed
+Individual motif replication completes in **6–24 hours** under optimal conditions, extending to days under chemical or thermal stress. This is significantly faster than [[Ferrovita]]'s crystal lattice replication, which operates on timescales of years to centuries, reflecting the fundamental difference in stability versus adaptability between the two domains.
+
+Whole organism replication — requiring sufficient motif production to support membrane expansion and eventual division — operates on a timescale of **days to weeks** under optimal conditions. See [[Sulphovita#Reproduction|Reproduction]] for the full division mechanism.
+### Metabolism
 Dual-pathway and opportunistic.
 Sulphovita is capable of exploiting multiple redox pathways, primarily:
 - Hydrogen sulphide oxidation
 - Methane oxidation
+Energy capture in Sulphovita is distributed across the peptide network rather than centralised in dedicated pathways, with individual modules contributing to electron transfer and chemical transformation in a loosely coordinated system.
 #### Hydrogen Sulphide Oxidation
 Sulphovita's hydrogen sulphide oxidation pathway uses H₂S as the primary electron donor, extracting energy by moving sulphur through progressive oxidation states. Environmental sulphate (SO₄²⁻) from Pocket B fluid serves as the terminal electron acceptor. The pathway proceeds stepwise:
 
@@ -89,7 +134,7 @@ Catalysed by **Carboxyl hydrase** — hydrates the carbon monoxide intermediate 
 ##### Waste Products and Ecological Implications
 The waste products of methane oxidation — H₂S, CO₂, and H₂O — are released continuously into Pocket B fluid. CO₂ accumulation acidifies the local environment slightly, reinforcing the moderately acidic character of Pocket B. H₂S released as waste simultaneously replenishes the hydrogen sulphide pool that primes further methane activation, creating a degree of internal chemical recycling within the pathway coupling system.
 
-### **Membrane**
+### Membrane
 Sulphonolipid bilayer, flexible and chemically active.
 Sulphovita is enclosed by a membrane composed of **sulphonolipids**, analogous to phospholipids but incorporating sulphonate groups instead of phosphate. This structure is:
 - Stable in acidic conditions
@@ -98,7 +143,7 @@ Sulphovita is enclosed by a membrane composed of **sulphonolipids**, analogous t
 Unlike passive biological membranes, the Sulphovita membrane participates directly in chemical processes. It acts as a **reactive interface**, facilitating the exchange and transformation of molecules between the organism and its surroundings.
 The boundary of the organism is therefore not strictly defined; it is a **zone of active chemistry** rather than a fixed barrier.
 
-### **Ecological Character**
+### Ecological Character
 Adaptive, unstable, and chemically integrated.
 Sulphovita occupies the transitional regions between extreme vent chemistry and the broader planetary environment. These zones are characterised by:
 - Rapid chemical fluctuations
@@ -107,4 +152,28 @@ Sulphovita occupies the transitional regions between extreme vent chemistry and 
 In this context, Sulphovita’s defining trait is not efficiency, but **adaptability**. Individual structures may be transient or unstable, but the system persists through continuous reconfiguration.
 Rather than maintaining strict individuality, Sulphovita systems may exchange components, merge, or fragment. Identity is therefore **fluid**, and survival operates at the level of chemical networks rather than discrete organisms.
 
-CH$_{4}$ + SO$_{4}^{2-}$→ HCO$_{3}^-$ + HS$^-$ + H$_{2}$O
+### Reproduction
+Sulphovita reproduces through a two-phase process driven entirely by internal dynamics — no external forcing or environmental trigger is required.
+
+#### Phase 1 — Network Densification and Partitioning
+As peptide motif replication continues the internal network grows progressively denser. Individual motifs replicate, interact, and form functional clusters — localised regions of the network specialising in particular catalytic roles based on their motif distribution. As the network expands these clusters become increasingly self-contained, developing their own internal chemical dynamics distinct from neighbouring regions.
+
+Eventually the network reaches a critical density threshold at which two or more subsystems are operating more independently than cooperatively. At this point the network has effectively already partitioned — two proto-organisms exist within a single membrane, each with a distinct peptide distribution and semi-independent metabolic activity.
+
+The partition boundary is not a sharp line but a **zone of reduced connectivity** — a region where inter-cluster interactions are sparse relative to intra-cluster interactions. This zone defines where membrane fission will eventually occur.
+
+#### Phase 2 — Membrane Fission
+The partition boundary creates uneven mechanical tension across the membrane. In response the sulphonolipid membrane begins synthesising new lipid material preferentially at the tension zone, expanding locally. This expansion does not relieve the tension but intensifies it, progressively constricting the membrane at the partition boundary.
+
+Fission completes when the constriction reduces the connecting membrane to a point where the chemical and mechanical forces maintaining continuity are overcome. The membrane seals spontaneously at both ends of the break, producing two independent daughter organisms each enclosed by a complete sulphonolipid membrane.
+
+The entire process from initial network partitioning to completed fission takes approximately **days to weeks** under optimal conditions, extending significantly under chemical or thermal stress.
+
+#### Daughter Asymmetry
+Network partitioning is not a precise equal division. The two daughter organisms inherit different subsets of the parent's peptide motif distribution — different proportions of metabolic modules, structural motifs, and templating scaffolds. Combined with the variation introduced during templating, no two daughter organisms are biochemically identical.
+
+This asymmetry has direct evolutionary consequences. Sulphovita populations diversify rapidly even without strong environmental selection pressure — each reproductive cycle generates genuine biochemical variation across the population. Daughters inheriting different motif distributions will express different metabolic emphases, membrane properties, and replication rates, producing a chemically heterogeneous population from a single ancestor within relatively few generations.
+
+This inherent diversification is the molecular foundation of Sulphovita's adaptability — not merely a property of the organism but a structural consequence of how it reproduces.
+
+
