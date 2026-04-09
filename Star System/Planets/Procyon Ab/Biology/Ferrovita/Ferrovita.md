@@ -3,7 +3,7 @@ tags:
   - Life
 ---
 ### Overview
-Ferrovita are extremophilic, mineral-based lifeforms inhabiting the deepest hydrothermal vent zones of [[Procyon Ab|Xenos]]. Existing at the boundary between biology and [[Geology]], they are not built from organic polymers but from structured iron–sulfur minerals. Their bodies grow directly from the surrounding rock, forming slow-living, crystalline systems that extract energy from redox gradients in iron-rich fluids. To outside observers, Ferrovita are nearly indistinguishable from vent formations — living structures embedded within the planet’s crust.
+Ferrovita are extremophilic, mineral-based lifeforms inhabiting the deepest hydrothermal vent zones of [[Procyon Ab|Xenos]]. Existing at the boundary between biology and [[Geology]], they are not built from organic polymers but from structured iron–sulphur minerals. Their bodies grow directly from the surrounding rock, forming slow-living, crystalline systems that extract energy from redox gradients in iron-rich fluids. To outside observers, Ferrovita are nearly indistinguishable from vent formations — living structures embedded within the planet’s crust.
 
 ### Genetics
 Ferrovita encodes information not in molecular sequences but in the **three dimensional pattern of electrochemical properties across its iron-sulphur lattice**. This system has no analogue in carbon-based life — genetics, metabolism, and structure are not separate systems but a single unified electrochemical phenomenon.
@@ -59,7 +59,7 @@ Ferrovita's metabolism is founded on a single core reaction — iron reduction u
 
 **H₂ + 2Fe³⁺ → 2Fe²⁺ + 2H⁺**
 
-Unlike carbon-based metabolic systems where reactions occur through molecular pathways in solution, Ferrovita's metabolism occurs across its entire solid-state lattice simultaneously. Electron transport is a structural phenomenon — the lattice itself is the metabolic machinery, with the defect pattern determining exactly how energy moves through the organism. Metabolism and genetics are therefore not merely linked but physically inseparable.
+Unlike carbon-based metabolic systems where reactions occur through molecular pathways in solution, Ferrovita's metabolism occurs across its entire solid-state lattice simultaneously, creating a biological semiconductor. Electron transport is a structural phenomenon — the lattice itself is the metabolic machinery, with the defect pattern determining exactly how energy moves through the organism. Metabolism and genetics are therefore not merely linked but physically inseparable.
 
 #### Stepwise Mechanism
 **Step 1 — H₂ Import and Activation**
@@ -132,4 +132,15 @@ True death — irreversible cessation — occurs only through three mechanisms:
 
 **Structural destruction** — geological activity, mechanical stress, or competitive displacement physically shatters the lattice. If fragmentation is severe enough that no region retains sufficient structural continuity to maintain even residual gradients, recovery is impossible. Fragments below a critical size threshold cannot sustain the electrochemical complexity required for metabolic recovery and are functionally dead, becoming inert mineral matter indistinguishable from surrounding rock.
 
-**Permanent vent extinction** — if the vent system supplying Fe³⁺ and H₂ closes permanently with no recovery, gradients decay to absolute zero over sufficient time. Once residual gradi
+**Permanent vent extinction** — if the vent system supplying Fe³⁺ and H₂ closes permanently with no recovery, gradients decay to absolute zero over sufficient time. Once residual gradients fully dissipate the templating information encoded in the defect pattern loses its functional context — the circuit exists but carries no current and cannot be restarted without an external electrochemical seed. This threshold is the point of true death. 
+
+**Competitive displacement** — another Ferrovita organism grows over and physically integrates with a smaller organism, subsuming its lattice into its own structure. The displaced organism's defect pattern may partially persist within the larger organism's lattice as an anomalous region, a fossil of genetic information absorbed rather than destroyed.
+#### Post-Death Persistence 
+A dead Ferrovita remains as an intact pyrite mineral structure embedded in rock or vent substrate. It does not decompose. The lattice defect pattern is physically preserved in the mineral indefinitely — a fossil from the moment of death, carrying no functional information but retaining the geometric record of the organism's electrochemical history. Over geological timescales these structures become incorporated into the rock record of [[Procyon Ab|Xenos]], indistinguishable from abiotic mineral formations except to analysis capable of identifying the non-random defect distributions characteristic of biological lattice growth.
+
+### Evolutionary Overview
+Ferrovita's evolutionary history across the Erebian Era is a sequence of incremental innovations, each conferring a meaningful survival advantage over the previous grade. Four grades are recognised within the Ferrovita domain, progressing from the original sessile iron reducers through to the fully mobile methanogenic Novus lineage.
+
+The lineage begins with **Ferrovita Rudis** — the most primitive grade, relying entirely on chance for juvenile establishment. From Rudis, two sequential innovations produce **Ferrovita Tactus** and **Ferrovita Mobilis**, each improving survival and resource access while retaining iron reduction as the sole metabolism. At Mobilis the lineage diverges — the majority retain iron reduction as their defining metabolic strategy, becoming the [[Firmus Ferrovita]] sub-lineage, while a population developing methanogenic capacity branches into the [[Novus Ferrovita]] sub-lineage. Novus subsequently diverges into **Novus Parcus** and **Novus Liber**, completing the Erebian Era's biological diversification within the Ferrovita domain.
+
+Each grade is documented in detail within the relevant sub-lineage notes. The full evolutionary sequence represents approximately one billion years of accumulated variation under the selective pressures of [[Hydrology#Pocket A|Pocket A]]'s chemically aggressive and spatially constrained environment.
