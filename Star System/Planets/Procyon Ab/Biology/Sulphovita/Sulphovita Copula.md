@@ -3,7 +3,7 @@ tags:
   - Life
 ---
 ### Overview
-Copula [[Sulphovita]] is the first major divergent lineage of [[Sulphovita]], emerging from peripheral Pocket B populations experiencing chronic H₂S scarcity relative to available methane. Rather than remaining dependent on H₂S oxidation to prime methane activation, Copula lineages evolved a dedicated iron-coordination mechanism — a peptide module capable of cycling Fe²⁺/Fe³⁺ internally to destabilise the methane C-H bond directly. This makes Copula the first [[Sulphovita]] lineage to develop a meaningful iron dependency, and [[Sulphovita]] Solutus the first organism on [[Procyon Ab|Xenos]] to completely abandon a founding metabolic pathway.
+[[Sulphovita]] Copula is the first major divergent lineage of [[Sulphovita]], emerging from peripheral Pocket B populations experiencing chronic H₂S scarcity relative to available methane. Rather than remaining dependent on H₂S oxidation to prime methane activation, Copula lineages evolved a dedicated iron-coordination mechanism — a peptide module capable of cycling Fe²⁺/Fe³⁺ internally to destabilise the methane C-H bond directly. This makes Copula the first [[Sulphovita]] lineage to develop a meaningful iron dependency, and [[Sulphovita]] Solutus the first organism on [[Procyon Ab|Xenos]] to completely abandon a founding metabolic pathway.
 
 ### Environmental Niche
 - **Location:** Peripheral zones of Pocket B, furthest from active vent outflow
@@ -14,7 +14,7 @@ Copula [[Sulphovita]] is the first major divergent lineage of [[Sulphovita]], em
 ### The Core Innovation — Iron-Coordinated Methane Activation
 Baseline [[Sulphovita]] activates methane by borrowing energy from concurrent H₂S oxidation to overcome the C-H bond activation barrier. This coupling creates a hard dependency — without sufficient H₂S, methane oxidation cannot initiate regardless of methane availability.
 
-Copula [[Sulphovita]] resolves this through a fundamentally different activation mechanism. A dedicated peptide module — **Ferric coordinase** — maintains a small internal Fe²⁺/Fe³⁺ redox cycle. The transition between oxidation states generates localised radical chemistry sufficient to destabilise the methane C-H bond, replacing H₂S priming entirely as the activation mechanism.
+[[Sulphovita]] Copula resolves this through a fundamentally different activation mechanism. A dedicated peptide module — **Ferric coordinase** — maintains a small internal Fe²⁺/Fe³⁺ redox cycle. The transition between oxidation states generates localised radical chemistry sufficient to destabilise the methane C-H bond, replacing H₂S priming entirely as the activation mechanism.
 
 The overall methane oxidation reaction remains unchanged:
 
@@ -29,7 +29,6 @@ This active retention works against a concentration gradient — internal iron c
 
 ### [[Sulphovita]] Incitor
 *Emerges ~500 Million AC*
-
 #### Overview
 Incitor is the opportunist stage of the Copula lineage — the first [[Sulphovita]] to possess iron-coordinated methane activation, but not yet fully committed to it. Ferric coordinase is present and functional but represents a relatively recent evolutionary innovation, not yet refined to the point where it can fully displace H₂S priming under all conditions.
 
@@ -64,6 +63,6 @@ This makes Solutus the most metabolically specialised organism of the Erebian Er
 Solutus dominates the most extreme peripheral zones of Pocket B where H₂S availability is lowest and iron availability is highest. It is outcompeted by Incitor in intermediate zones where H₂S fluctuates sufficiently to make pathway flexibility valuable, and by baseline [[Sulphovita]] in vent-proximal zones where H₂S is abundant. Solutus occupies the narrowest ecological niche of any [[Sulphovita]] lineage — but within that niche it is unrivalled.
 
 ### Relationship to Baseline [[Sulphovita]]
-Copula [[Sulphovita]] descended from peripheral baseline populations experiencing chronic H₂S scarcity. The divergence was gradual — Ferric coordinase emerging through accumulated peptide variation in populations already operating at the margins of H₂S availability, where even modest iron-coordination capacity provided meaningful survival advantage. There was no single divergence event but a progressive shift across populations already stressed by their chemical environment.
+[[Sulphovita]] Copula descended from peripheral baseline populations experiencing chronic H₂S scarcity. The divergence was gradual — Ferric coordinase emerging through accumulated peptide variation in populations already operating at the margins of H₂S availability, where even modest iron-coordination capacity provided meaningful survival advantage. There was no single divergence event but a progressive shift across populations already stressed by their chemical environment.
 
 Spatial partitioning between baseline [[Sulphovita]] and Copula lineages is maintained by their differing chemical tolerances — baseline [[Sulphovita]] dominates vent-proximal H₂S-rich zones, Incitor occupies intermediate zones, Solutus the most peripheral iron-rich regions. The three populations exist across a chemical gradient rather than in discrete separated territories, with overlap zones hosting competition between lineages at every boundary.

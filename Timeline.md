@@ -1,4 +1,3 @@
-
 ```timeline
 
 +
@@ -19,35 +18,36 @@
        Once fully ejected into interstellar space, Xenos enters a prolonged rogue phase. The surface remains entirely frozen beneath an ice layer stabilising at ~17 km thickness. Beneath this shell, geothermal heat sustains a global subsurface ocean. Above, a dense primordial atmosphere persists at ~47 atm, dominated by hydrogen and helium.
 
 + ~800 Million AC
-  + Emergence of Life — Ferrovita Rudis
-    + First life emerges in deep hydrothermal vent systems as Ferrovita Rudis. These organisms are fully sessile, entirely dependent on rock-bound Fe³⁺ reduction, and rely on chance for juvenile settlement. This marks the first known instance of life on Xenos.
+  + Emergence of Life — Ferrovita Firmus Rudis
+    + First life emerges in deep hydrothermal vent systems as Ferrovita Firmus Rudis. These organisms are fully sessile, entirely dependent on rock-bound Fe³⁺ reduction, and rely on chance for juvenile settlement. This marks the first known instance of life on Xenos.
 
 + ~700 Million AC
-  + Emergence of Life — Sulphovita
-    + A second, completely independent origin of life appears as Sulphovita within chemically distinct regions of the same vent systems. These organisms utilise fluid-phase sulphur chemistry and replicate rapidly compared to Ferrovita. No interaction occurs between the two domains.
+  + Emergence of Life — Sulphovita Primalis
+    + A second, completely independent origin of life appears as Sulphovita Primalis within chemically distinct regions of the same vent systems. These organisms utilise fluid-phase sulphur chemistry and replicate rapidly compared to Ferrovita. No interaction occurs between the two domains.
 
 + ~600 Million AC
-  + Ferrovita Tactus Evolution
-    + Ferrovita Tactus evolves from Rudis populations. Juveniles develop electrophoretic drift, allowing passive movement toward Fe³⁺-rich rock surfaces. This significantly improves establishment success and marks the first directed interaction with the electrochemical environment.
+  + Ferrovita Firmus Tactus Evolution
+    + Ferrovita Firmus Tactus evolves from Rudis populations. Juveniles develop electrophoretic drift, allowing passive movement toward Fe³⁺-rich rock surfaces. This significantly improves establishment success and marks the first directed interaction with the electrochemical environment.
 
 + ~500 Million AC
-  + Copula Sulphovita Incitor Evolution
-    + In the peripheral zones of Pocket B, chronically low H₂S availability drives divergence from baseline Sulphovita populations. Sulphovita Incitor emerges as the first organism on Xenos to develop iron-coordinated methane activation via the Ferric coordinase peptide module, supplemented by a dedicated iron retention membrane system. Incitor does not abandon H₂S oxidation but operates opportunistically, switching between activation mechanisms based on local chemical availability. This marks the first major divergence within the Sulphovita domain and the emergence of the Copula Sulphovita lineage.
+  + Emergence of Sulphovita Copula Incitor
+    + In the peripheral zones of Pocket B, chronically low H₂S availability drives divergence from Sulphovita Primalis populations. Sulphovita Copula Incitor emerges as the first organism on Xenos to develop iron-coordinated methane activation via the Ferric coordinase peptide module, supplemented by a dedicated iron retention membrane system. Incitor does not abandon H₂S oxidation but operates opportunistically, switching between activation mechanisms based on local chemical availability. This marks the first major divergence within the Sulphovita domain and the emergence of the Copula lineage.
+
 + ~400 Million AC
-  + Ferrovita Mobilis Evolution
-    + Ferrovita Mobilis emerges as vent chemistry variability increases. These organisms develop the ability to detach from depleted rock surfaces and relocate via electrophoresis, eliminating strict dependence on a single substrate location.
+  + Ferrovita Firmus Mobilis Evolution
+    + Ferrovita Firmus Mobilis emerges as vent chemistry variability increases. These organisms develop the ability to detach from depleted rock surfaces and relocate via electrophoresis, eliminating strict dependence on a single substrate location.
 
-+ ~300 Million AC
-  + Copula Sulphovita Solutus Evolution
-    + Descending from Incitor populations in the most H₂S-depleted peripheral zones of Pocket B, Sulphovita Solutus emerges as iron-coordinated activation becomes sufficiently refined to operate as the sole metabolic pathway. H₂S oxidation modules are progressively marginalised through distributional displacement across generations, falling below functional threshold and rendering the pathway non-operational. Solutus becomes the first organism on Xenos to completely abandon a founding metabolic pathway, operating exclusively on iron-coordinated methane oxidation. It occupies the narrowest ecological niche of any Sulphovita lineage — the most peripheral, iron-rich, H₂S-poor zones of Pocket B.
++ ~280 Million AC
+  + Emergence of Sulphovita Copula Solutus
+    + Descending from Sulphovita Copula Incitor populations in the most H₂S-depleted peripheral zones of Pocket B, Sulphovita Copula Solutus emerges as iron-coordinated activation becomes sufficiently refined to operate as the sole metabolic pathway. H₂S oxidation modules are progressively marginalised through distributional displacement across generations, falling below functional threshold and rendering the pathway non-operational. Solutus becomes the first organism on Xenos to completely abandon a founding metabolic pathway, operating exclusively on iron-coordinated methane oxidation. It occupies the narrowest ecological niche of any Sulphovita lineage — the most peripheral, iron-rich, H₂S-poor zones of Pocket B.
 
-+ ~300 Million AC
-  + Novus Divergence — Parcus Stage
-    + In cooler vent margins, Mobilis populations diverge into Novus Parcus, creating the first true divide of Ferrovita into the lineages Firmus and Novus. Methanogenesis (**H₂ + CO₂ → CH₄ + H₂O**) emerges as a supplementary metabolism, allowing extended survival during detachment and transit between rock surfaces.
++ ~320 Million AC
+  + Ferrovita Novus Parcus Divergence
+    + In cooler vent margins, Ferrovita Firmus Mobilis populations diverge into Ferrovita Novus Parcus, creating the first true divide of Ferrovita into the Firmus and Novus domains. Methanogenesis (**H₂ + CO₂ → CH₄ + H₂O**) emerges as a supplementary metabolism, allowing extended survival during detachment and transit between rock surfaces.
 
 + ~150 Million AC
-  + Novus Liber Evolution
-    + Novus Liber evolves as methanogenesis becomes the primary metabolic pathway in Fe³⁺-scarce environments. These organisms spend most of their existence free-floating, representing the first fully untethered life on Xenos.
+  + Emergence of Ferrovita Novus Liber
+    + Ferrovita Novus Liber evolves as methanogenesis becomes the primary metabolic pathway in Fe³⁺-scarce environments. These organisms spend most of their existence free-floating, representing the first fully untethered life on Xenos.
 
 +
 + Photian Era
@@ -59,3 +59,4 @@
 
 
 ```
+

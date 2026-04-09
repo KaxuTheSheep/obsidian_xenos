@@ -55,7 +55,7 @@ Firmus is the direct ancestor of [[Ferrovita Novus]]. The divergence occurred wh
 Firmus and Novus spatially partition Pocket A — Firmus dominates the hottest, most Fe³⁺-rich direct vent zones while Novus occupies the cooler margins. Overlap zones exist at intermediate temperatures and Fe³⁺ concentrations where both sub-lineages are present. In these zones Firmus's superior Fe³⁺ access gives it a metabolic advantage but Novus's greater environmental tolerance allows it to persist where Firmus growth slows.
 
 ### Evolutionary History
-Firmus Ferrovita represents the terminal point of the iron-reduction-only lineage within [[Ferrovita]]. Three evolutionary grades preceded the mature Firmus form, each defined by a single key innovation building on the last.
+Ferrovita Firmus represents the terminal point of the iron-reduction-only lineage within [[Ferrovita]]. Three evolutionary grades preceded the mature Firmus form, each defined by a single key innovation building on the last.
 
 #### Ferrovita Rudis
 *The original grade — sessile, chance-dependent, purely iron-reducing.*
