@@ -30,11 +30,11 @@ One of the two founding domains of life on [[Procyon Ab|Xenos]]. Mineral-based, 
 ## [[Sulphovita]]
 One of the two founding domains of life on [[Procyon Ab|Xenos]]. Peptide-based, sulphur-chemistry organisms inhabiting the peripheral hydrothermal vent zones. Emerged independently during the Erebian Era. See [[Sulphovita]].
 
-## [[Firmus Ferrovita]]
-The ancestral sub-lineage of [[Ferrovita]]. Occupies the deepest, hottest vent zones. Primary metabolism is iron reduction. See [[Firmus Ferrovita]].
+## [[Ferrovita Firmus]]
+The ancestral sub-lineage of [[Ferrovita]]. Occupies the deepest, hottest vent zones. Primary metabolism is iron reduction. See [[Ferrovita Firmus]].
 
-## [[Novus Ferrovita]]
-The derived sub-lineage of [[Ferrovita]], descended from Firmus. Occupies cooler vent margins. Primary metabolism is hydrogen oxidation. Represents the first major divergence event within the Ferrovita domain. See [[Novus Ferrovita]].
+## [[Ferrovita Novus]]
+The derived sub-lineage of [[Ferrovita]], descended from Firmus. Occupies cooler vent margins. Primary metabolism is hydrogen oxidation. Represents the first major divergence event within the Ferrovita domain. See [[Ferrovita Novus]].
 
 
 # Geology

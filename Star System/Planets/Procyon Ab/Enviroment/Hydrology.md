@@ -59,12 +59,12 @@ Chemical disequilibrium is continuously maintained by vent flux, preventing the 
     - Extremely hostile to complex free-floating chemistry
 
 #### **Biological Modification (Erebian Era)**
-Biological activity by [[Ferrovita]] and its descendant [[Novus Ferrovita]] introduces a progressive chemical shift in Pocket A fluid over geological timescales. These organisms operate exclusively through reductive metabolisms, systematically altering the redox balance of the environment.
+Biological activity by [[Ferrovita]] and its descendant [[Ferrovita Novus]] introduces a progressive chemical shift in Pocket A fluid over geological timescales. These organisms operate exclusively through reductive metabolisms, systematically altering the redox balance of the environment.
 
 - **Fe³⁺ depletion** — continuous reduction of rock-bound and dissolved Fe³⁺ to Fe²⁺ lowers the availability of oxidised iron in active zones, particularly in vent margins
 - **Fe²⁺ accumulation** — reduced iron accumulates in solution, increasing the overall reduced character of the fluid
 - **Hydrogen consumption** — H₂ is steadily drawn down in regions of high biological density, reinforcing local chemical gradients
-- **Methane production** — with the emergence of [[Novus Ferrovita]], methanogenesis (H₂ + CO₂ → CH₄ + H₂O) becomes a significant process, leading to gradual accumulation of dissolved methane in Pocket A fluid
+- **Methane production** — with the emergence of [[Ferrovita Novus]], methanogenesis (H₂ + CO₂ → CH₄ + H₂O) becomes a significant process, leading to gradual accumulation of dissolved methane in Pocket A fluid
 - **Carbon dioxide drawdown (localised)** — CO₂ is consumed during methanogenesis, though this effect remains spatially limited due to continuous vent replenishment
 
 These processes do not homogenise the environment. Instead, they intensify existing gradients:

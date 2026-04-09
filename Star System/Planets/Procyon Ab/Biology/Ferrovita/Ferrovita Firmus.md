@@ -3,7 +3,7 @@ tags:
   - Life
 ---
 ### Overview
-Firmus [[Ferrovita]] is the ancestral sub-lineage of [[Ferrovita]], representing the oldest and most chemically conservative form of life on [[Procyon Ab|Xenos]]. Where [[Novus Ferrovita]] diverged toward hydrogen oxidation in cooler peripheral zones, Firmus remained committed to direct rock-bound iron reduction — the original metabolic strategy of all [[Ferrovita]] life. Firmus organisms are permanently attached to Fe³⁺-rich vent rock, growing across and consuming it over geological timescales. They are the closest living approximation to the first [[Ferrovita]] that ever existed.
+Firmus [[Ferrovita]] is the ancestral sub-lineage of [[Ferrovita]], representing the oldest and most chemically conservative form of life on [[Procyon Ab|Xenos]]. Where [[Ferrovita Novus]] diverged toward hydrogen oxidation in cooler peripheral zones, Firmus remained committed to direct rock-bound iron reduction — the original metabolic strategy of all [[Ferrovita]] life. Firmus organisms are permanently attached to Fe³⁺-rich vent rock, growing across and consuming it over geological timescales. They are the closest living approximation to the first [[Ferrovita]] that ever existed.
 
 ### Environmental Niche
 - **Location:** Deepest, hottest hydrothermal vent zones within [[Hydrology#Pocket A|Pocket A]]
@@ -31,7 +31,7 @@ Firmus-specific details:
 
 **H₂ supply** — Firmus occupies zones of highest vent H₂ flux, giving it the most abundant hydrogen supply of any [[Ferrovita]]. H₂ diffuses passively through microfractures across the entire shell surface, with the highest flux at fluid-facing regions closest to active vent outflow.
 
-**Energy output** — Firmus generates the highest sustained metabolic output of any [[Ferrovita]] sub-lineage, reflecting its privileged access to rock-bound Fe³⁺. This drives faster lattice accrual and more frequent bud production relative to [[Novus Ferrovita]], though both remain slow on absolute timescales. See [[Ferrovita#Growth Rate]].
+**Energy output** — Firmus generates the highest sustained metabolic output of any [[Ferrovita]] sub-lineage, reflecting its privileged access to rock-bound Fe³⁺. This drives faster lattice accrual and more frequent bud production relative to [[Ferrovita Novus]], though both remain slow on absolute timescales. See [[Ferrovita#Growth Rate]].
 
 ### Reproduction
 Follows the asymmetric budding mechanism described in [[Ferrovita#Reproduction]].
@@ -49,8 +49,8 @@ Follows [[Ferrovita#Dormancy and Death]] entirely. Firmus-specific dormancy trig
 
 The oldest Firmus individuals may have persisted since the earliest Erebian Era, surviving multiple vent cycles through repeated dormancy and recovery. These ancient organisms carry the most accumulated lattice defect variation of any life on [[Procyon Ab|Xenos]] — their electrochemical architecture is a geological record of [[Procyon Ab|Xenos]]'s entire biological history compressed into mineral structure.
 
-### Relationship to [[Novus Ferrovita]]
-Firmus is the direct ancestor of [[Novus Ferrovita]]. The divergence occurred when local variation in lattice defect patterns in marginal Firmus populations — those occupying the cooler periphery of Pocket A vent zones — altered electron transport behaviour sufficiently to enable hydrogen oxidation as a supplementary energy source. Over time this supplementary pathway became primary in the cooler zones where rock-bound Fe³⁺ was less abundant, producing the Novus sub-lineage.
+### Relationship to [[Ferrovita Novus]]
+Firmus is the direct ancestor of [[Ferrovita Novus]]. The divergence occurred when local variation in lattice defect patterns in marginal Firmus populations — those occupying the cooler periphery of Pocket A vent zones — altered electron transport behaviour sufficiently to enable hydrogen oxidation as a supplementary energy source. Over time this supplementary pathway became primary in the cooler zones where rock-bound Fe³⁺ was less abundant, producing the Novus sub-lineage.
 
 Firmus and Novus spatially partition Pocket A — Firmus dominates the hottest, most Fe³⁺-rich direct vent zones while Novus occupies the cooler margins. Overlap zones exist at intermediate temperatures and Fe³⁺ concentrations where both sub-lineages are present. In these zones Firmus's superior Fe³⁺ access gives it a metabolic advantage but Novus's greater environmental tolerance allows it to persist where Firmus growth slows.
 
@@ -71,7 +71,7 @@ Rudis persists as a grade throughout the Erebian Era — it does not disappear w
 
 Ferrovita Tactus emerges from Rudis populations through lattice defect variation producing a sufficient electron accumulation response in juveniles to generate meaningful electrophoretic drift. The selective advantage is immediate and significant — juveniles that drift toward Fe³⁺-rich rock rather than settling randomly survive at dramatically higher rates than Rudis juveniles in the same environment.
 
-The electrophoretic mechanism follows the same physical principle described in [[Firmus Ferrovita#Reproduction]] — electron accumulation from excess H₂ input relative to scarce dissolved Fe³⁺ generates a net negative charge, producing passive drift toward the strongest positive electrochemical potential in the vicinity, which corresponds to Fe³⁺-rich rock surfaces.
+The electrophoretic mechanism follows the same physical principle described in [[Ferrovita Firmus#Reproduction]] — electron accumulation from excess H₂ input relative to scarce dissolved Fe³⁺ generates a net negative charge, producing passive drift toward the strongest positive electrochemical potential in the vicinity, which corresponds to Fe³⁺-rich rock surfaces.
 
 Tactus adults retain the permanent rock attachment of Rudis — electrophoresis operates only during the juvenile phase. Once established on rock Tactus organisms are as sessile as Rudis, growing across and consuming the rock face until Fe³⁺ depletion forces dormancy. The innovation is entirely a juvenile survival improvement, not an adult mobility gain.
 
@@ -89,4 +89,4 @@ Post-detachment Mobilis uses electrophoresis as an adult navigation mechanism, d
 Mobilis effectively eliminates dormancy as a response to local Fe³⁺ depletion — where Rudis and Tactus must wait for vent chemistry to recover or die, Mobilis relocates. This makes Mobilis populations significantly more resilient to localised vent chemistry variability and represents the final evolutionary grade before the Firmus/Novus divergence.
 
 #### The Divergence Point
-At the Mobilis grade the Ferrovita lineage diverges. The majority of Mobilis populations retain iron reduction as their sole metabolism — these become the [[Firmus Ferrovita]] sub-lineage as documented in this note. A Mobilis population in the cooler vent margins develops methanogenic capacity through lattice defect variation enabling CO₂ reduction — these become the [[Novus Ferrovita]] sub-lineage. See [[Novus Ferrovita#Evolutionary History]] for the subsequent Novus grades.
+At the Mobilis grade the Ferrovita lineage diverges. The majority of Mobilis populations retain iron reduction as their sole metabolism — these become the [[Ferrovita Firmus]] sub-lineage as documented in this note. A Mobilis population in the cooler vent margins develops methanogenic capacity through lattice defect variation enabling CO₂ reduction — these become the [[Ferrovita Novus]] sub-lineage. See [[Ferrovita Novus#Evolutionary History]] for the subsequent Novus grades.

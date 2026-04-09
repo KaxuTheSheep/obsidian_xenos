@@ -23,7 +23,7 @@ This primordial envelope defines the baseline chemical environment of Xenos — 
 Approximately **21% (~9.87 atm)** of the atmosphere is continuously replenished through volcanic activity. These gases originate from the interior and are injected into the atmosphere through persistent geological processes.
 
 - **Carbon dioxide — 8% (~3.76 atm)**  
-    A major oxidised carbon reservoir. CO₂ dissolves into the subsurface ocean, contributing to fluid chemistry and acting as a key reactant in [[Novus Ferrovita]] methanogenesis.
+    A major oxidised carbon reservoir. CO₂ dissolves into the subsurface ocean, contributing to fluid chemistry and acting as a key reactant in [[Ferrovita Novus]] methanogenesis.
 - **Methane — 5% (~2.35 atm)**  
     Produced both volcanically and through abiotic serpentinisation. Methane represents a significant reduced carbon source and contributes to subsurface chemical disequilibrium.
 - **Sulphur dioxide — 4% (~1.88 atm)**  

@@ -30,9 +30,16 @@
   + Ferrovita Tactus Evolution
     + Ferrovita Tactus evolves from Rudis populations. Juveniles develop electrophoretic drift, allowing passive movement toward Fe³⁺-rich rock surfaces. This significantly improves establishment success and marks the first directed interaction with the electrochemical environment.
 
++ ~500 Million AC
+  + Copula Sulphovita Incitor Evolution
+    + In the peripheral zones of Pocket B, chronically low H₂S availability drives divergence from baseline Sulphovita populations. Sulphovita Incitor emerges as the first organism on Xenos to develop iron-coordinated methane activation via the Ferric coordinase peptide module, supplemented by a dedicated iron retention membrane system. Incitor does not abandon H₂S oxidation but operates opportunistically, switching between activation mechanisms based on local chemical availability. This marks the first major divergence within the Sulphovita domain and the emergence of the Copula Sulphovita lineage.
 + ~400 Million AC
   + Ferrovita Mobilis Evolution
     + Ferrovita Mobilis emerges as vent chemistry variability increases. These organisms develop the ability to detach from depleted rock surfaces and relocate via electrophoresis, eliminating strict dependence on a single substrate location.
+
++ ~300 Million AC
+  + Copula Sulphovita Solutus Evolution
+    + Descending from Incitor populations in the most H₂S-depleted peripheral zones of Pocket B, Sulphovita Solutus emerges as iron-coordinated activation becomes sufficiently refined to operate as the sole metabolic pathway. H₂S oxidation modules are progressively marginalised through distributional displacement across generations, falling below functional threshold and rendering the pathway non-operational. Solutus becomes the first organism on Xenos to completely abandon a founding metabolic pathway, operating exclusively on iron-coordinated methane oxidation. It occupies the narrowest ecological niche of any Sulphovita lineage — the most peripheral, iron-rich, H₂S-poor zones of Pocket B.
 
 + ~300 Million AC
   + Novus Divergence — Parcus Stage

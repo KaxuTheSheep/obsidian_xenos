@@ -3,7 +3,7 @@ tags:
   - Life
 ---
 ### Overview
-Novus Ferrovita is the derived sub-lineage of [[Ferrovita]], descended from [[Firmus Ferrovita]] through local lattice defect variation in the cooler marginal zones of [[Hydrology#Pocket A|Pocket A]]. Where Firmus is permanently committed to rock-bound iron reduction, Novus represents the first meaningful metabolic diversification in Ferrovita history — developing hydrogen oxidation as a supplementary metabolism that gradually becomes primary across the Erebian Era. Novus is the first life on [[Procyon Ab|Xenos]] capable of sustained detachment and relocation, making it the most mobile organism of the Erebian Era despite operating on geological timescales.
+Novus Ferrovita is the derived sub-lineage of [[Ferrovita]], descended from [[Ferrovita Firmus]] through local lattice defect variation in the cooler marginal zones of [[Hydrology#Pocket A|Pocket A]]. Where Firmus is permanently committed to rock-bound iron reduction, Novus represents the first meaningful metabolic diversification in Ferrovita history — developing hydrogen oxidation as a supplementary metabolism that gradually becomes primary across the Erebian Era. Novus is the first life on [[Procyon Ab|Xenos]] capable of sustained detachment and relocation, making it the most mobile organism of the Erebian Era despite operating on geological timescales.
 ### Environmental Niche
 - **Location:** Cooler vent margins within [[Hydrology#Pocket A|Pocket A]], peripheral to Firmus zones
 - **Temperature:** ~110–130°C
@@ -18,7 +18,7 @@ Novus occupies the transitional zone between the extreme vent core chemistry of 
 Novus's metabolism is not static across the Erebian Era but shifts progressively from iron reduction dominant to hydrogen oxidation dominant over geological timescales.
 
 #### Early Novus
-Early Novus is metabolically similar to [[Firmus Ferrovita]] — iron reduction from rock-bound Fe³⁺ remains the primary energy source, providing the highest energy yield when rock attachment is established. The key innovation distinguishing early Novus from Firmus is the capacity for **detachment and relocation** — lattice defect variations in early Novus populations altered electron transport behaviour sufficiently to enable hydrogen oxidation as a supplementary metabolism during transit between rock surfaces.
+Early Novus is metabolically similar to [[Ferrovita Firmus]] — iron reduction from rock-bound Fe³⁺ remains the primary energy source, providing the highest energy yield when rock attachment is established. The key innovation distinguishing early Novus from Firmus is the capacity for **detachment and relocation** — lattice defect variations in early Novus populations altered electron transport behaviour sufficiently to enable hydrogen oxidation as a supplementary metabolism during transit between rock surfaces.
 
 **Primary metabolism when attached:** Iron reduction — follows [[Ferrovita#Metabolism]] exactly, rock-bound Fe³⁺ reduced via H₂ electron donation.
 
@@ -28,7 +28,7 @@ Early Novus is metabolically similar to [[Firmus Ferrovita]] — iron reduction 
 
 CO₂ in Pocket A fluid at ~5–10 mmol/L is insufficient as a primary long-term energy source but adequate to sustain reduced metabolic activity during transit between rock surfaces. Methane and water are produced as waste products, accumulating locally in Pocket A fluid.
 
-Early Novus therefore uses detachment opportunistically — when local rock Fe³⁺ is sufficiently depleted that iron reduction slows below a viable threshold, the organism detaches rather than entering dormancy, sustains itself on methanogenesis during transit, and uses electrophoresis to navigate toward a new Fe³⁺-rich rock surface. See [[Novus Ferrovita#Electrophoresis and Navigation]].
+Early Novus therefore uses detachment opportunistically — when local rock Fe³⁺ is sufficiently depleted that iron reduction slows below a viable threshold, the organism detaches rather than entering dormancy, sustains itself on methanogenesis during transit, and uses electrophoresis to navigate toward a new Fe³⁺-rich rock surface. See [[Ferrovita Novus#Electrophoresis and Navigation]].
 
 #### Later Novus
 Across the Erebian Era selection pressure in the cooler, Fe³⁺-scarcer vent margins consistently favours organisms capable of sustaining themselves longer on hydrogen oxidation between rock contacts. Over many generations the metabolic balance shifts — hydrogen oxidation becomes the primary sustained energy source and iron reduction is retained as an opportunistic supplement rather than the default metabolic state.
@@ -64,7 +64,7 @@ Follows [[Ferrovita#Reproduction]] entirely for the budding mechanism, defect in
 
 Novus-specific juvenile phase:
 
-The juvenile phase follows the electrophoretic navigation mechanism described in [[Novus Ferrovita#Electrophoresis and Navigation]] and [[Ferrovita#Juvenile Phase]]. Novus juveniles use the same electron accumulation and electrophoretic drift toward Fe³⁺-rich rock as Firmus juveniles, with the additional advantage that if initial rock attachment fails or local Fe³⁺ is insufficient, the juvenile can sustain itself on methanogenesis long enough to attempt navigation toward an alternative surface.
+The juvenile phase follows the electrophoretic navigation mechanism described in [[Ferrovita Novus#Electrophoresis and Navigation]] and [[Ferrovita#Juvenile Phase]]. Novus juveniles use the same electron accumulation and electrophoretic drift toward Fe³⁺-rich rock as Firmus juveniles, with the additional advantage that if initial rock attachment fails or local Fe³⁺ is insufficient, the juvenile can sustain itself on methanogenesis long enough to attempt navigation toward an alternative surface.
 
 This gives Novus juveniles meaningfully higher survival rates than Firmus juveniles — the methanogenesis fallback extends the viable window for rock attachment significantly. Novus populations therefore grow faster than Firmus populations despite occupying less energetically rich zones, a consequence of improved juvenile survival rather than faster individual reproduction.
 
@@ -83,7 +83,7 @@ The two sub-lineages do not interact biochemically in any meaningful way during 
 
 ### Evolutionary History
 
-Novus Ferrovita diverges from [[Firmus Ferrovita]] at the Mobilis grade — a Mobilis population in the cooler vent margins of [[Hydrology#Pocket A|Pocket A]] develops methanogenic capacity, enabling hydrogen oxidation coupled to CO₂ reduction as a supplementary metabolism. From this divergence point two further grades emerge within the Novus sub-lineage.
+Novus Ferrovita diverges from [[Ferrovita Firmus]] at the Mobilis grade — a Mobilis population in the cooler vent margins of [[Hydrology#Pocket A|Pocket A]] develops methanogenic capacity, enabling hydrogen oxidation coupled to CO₂ reduction as a supplementary metabolism. From this divergence point two further grades emerge within the Novus sub-lineage.
 
 #### Novus Parcus
 *Innovation: limited methanogenesis as supplementary metabolism.*
