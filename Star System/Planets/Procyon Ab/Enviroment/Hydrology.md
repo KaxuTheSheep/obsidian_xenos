@@ -30,7 +30,7 @@ Maintained in solution under extreme pressure:
 - Methane (CH₄) — trace to negligible
 
 #### **Dissolved Minerals**
-- Iron (Fe²⁺ / Fe³⁺) — **very high concentrations**, ~100–300 mmol/L
+- Iron (Fe²⁺) — **very high concentrations**, ~100–300 mmol/L, (Fe³⁺) — lower concentration due to a lot of reduction chemicals, ~2–8 mmol/L
 - Sulphate (SO₄²⁻) — ~20–50 mmol/L
 - Dissolved metal ions (Ni, Cu, Zn) — trace but significant for catalysis
 
