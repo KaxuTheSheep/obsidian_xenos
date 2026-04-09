@@ -90,7 +90,7 @@ Maintained in solution by high subsurface pressure:
 
 #### **Dissolved Minerals**
 - Sulphate (SO₄²⁻) — ~50–100 mmol/L, dominant electron acceptor in biological redox chemistry
-- Iron (Fe²⁺) — ~2–5 mmol/L, significantly lower than [[Geology#Pocket A|Pocket A]]
+- Iron (Fe²⁺) — ~15–25 mmol/L, (Fe³⁺) — ~10–20 mmol/L, significantly lower than [[Geology#Pocket A|Pocket A]]
 - Silicates — trace concentrations
 
 #### **pH and Solvent Character**
