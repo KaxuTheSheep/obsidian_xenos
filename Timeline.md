@@ -36,7 +36,7 @@
 
 + ~300 Million AC
   + Novus Divergence — Parcus Stage
-    + In cooler vent margins, Mobilis populations diverge into Novus Parcus. Methanogenesis (**H₂ + CO₂ → CH₄ + H₂O**) emerges as a supplementary metabolism, allowing extended survival during detachment and transit between rock surfaces.
+    + In cooler vent margins, Mobilis populations diverge into Novus Parcus, creating the first true divide of Ferrovita into the lineages Firmus and Novus. Methanogenesis (**H₂ + CO₂ → CH₄ + H₂O**) emerges as a supplementary metabolism, allowing extended survival during detachment and transit between rock surfaces.
 
 + ~150 Million AC
   + Novus Liber Evolution
