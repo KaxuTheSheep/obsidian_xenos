@@ -1,4 +1,7 @@
-
+---
+tags:
+  - Planet
+---
 # Erebian Era
 
 ## Structure and Pressure

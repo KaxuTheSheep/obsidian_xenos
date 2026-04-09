@@ -5,7 +5,7 @@ aliases:
   - Xenos
 ---
 # [[Procyon Ab|Xenos]]
-Xenos is a captured rogue planet, designated **Procyon Ab**. It did not form within the [[Procyon]] system — it originated around a now-unknown red dwarf, was ejected during early system instability, drifted through interstellar space, and was eventually captured through gravitational interaction with the Kairos-Lethe system.
+Xenos is a captured rogue planet, designated **[[Procyon]] Ab**. It did not form within the [[Procyon]] system — it originated around a now-unknown red dwarf, was ejected during early system instability, drifted through interstellar space, and was eventually captured through gravitational interaction with the Kairos-[[Procyon B|Lethe]] system.
 
 This origin defines the planet’s extreme properties: an iron-dominated composition, high density, intense geothermal activity, and a subsurface ocean maintained entirely by internal heat.
 
@@ -26,7 +26,7 @@ Xenos possesses an exceptionally large iron–nickel core (~60–70% of planetar
 - **~2 Billion AC** — Formation in a red dwarf system  
 - **~1 Billion AC** — Ejection and entry into rogue phase  
 - **~0.8 Billion AC** — Emergence of life in subsurface hydrothermal vents  
-- **0 PC** — Capture into the [[Procyon]] system (becomes Procyon Ab)
+- **0 PC** — Capture into the [[Procyon]] system (becomes [[Procyon Ab]])
 
 See [[Timeline]] for full history.
 
@@ -41,13 +41,13 @@ See:
 - [[Geology]]  
 - [[Hydrology]]  
 
-## Atmosphere
-Xenos retains a dense primordial atmosphere (~47 atm), dominated by hydrogen and helium with significant volcanic contributions.
+## [[Atmosphere]]
+Xenos retains a dense primordial [[atmosphere]] (~47 atm), dominated by hydrogen and helium with significant volcanic contributions.
 
 See [[Atmosphere]] for full composition.
 
 ## Life
-All known life on Xenos originates in hydrothermal vent systems during the [[Erebian Era]].
+All known life on Xenos originates in hydrothermal vent systems during the [[Glossary#Erebian Era|Erebian Era]].
 Two independent domains emerged:
 - [[Ferrovita]] — mineral-based, iron-redox organisms  
 - [[Sulphovita]] — peptide-based, sulphur-cycle organisms  
