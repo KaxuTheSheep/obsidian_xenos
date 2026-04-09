@@ -4,9 +4,6 @@ tags:
 ---
 ### Overview
 Novus Ferrovita is the derived sub-lineage of [[Ferrovita]], descended from [[Firmus Ferrovita]] through local lattice defect variation in the cooler marginal zones of [[Hydrology#Pocket A|Pocket A]]. Where Firmus is permanently committed to rock-bound iron reduction, Novus represents the first meaningful metabolic diversification in Ferrovita history — developing hydrogen oxidation as a supplementary metabolism that gradually becomes primary across the Erebian Era. Novus is the first life on [[Procyon Ab|Xenos]] capable of sustained detachment and relocation, making it the most mobile organism of the Erebian Era despite operating on geological timescales.
-
----
-
 ### Environmental Niche
 - **Location:** Cooler vent margins within [[Hydrology#Pocket A|Pocket A]], peripheral to Firmus zones
 - **Temperature:** ~110–130°C
@@ -83,3 +80,35 @@ Novus descended from marginal Firmus populations occupying the cooler periphery 
 Spatial partitioning between Firmus and Novus is maintained by their differing environmental tolerances — Firmus dominates the hottest direct vent zones, Novus the cooler margins. Overlap zones at intermediate conditions host both sub-lineages. In these zones Firmus's superior rock-bound Fe³⁺ access gives it a metabolic advantage while Novus's mobility and methanogenesis fallback allow it to persist and exploit resources Firmus cannot reach.
 
 The two sub-lineages do not interact biochemically in any meaningful way during the Erebian Era — their waste products do not significantly affect each other's chemistry at the spatial scales and concentrations present in Pocket A. Their relationship is one of spatial coexistence and passive resource partitioning rather than active competition or cooperation.
+
+### Evolutionary History
+
+Novus Ferrovita diverges from [[Firmus Ferrovita]] at the Mobilis grade — a Mobilis population in the cooler vent margins of [[Hydrology#Pocket A|Pocket A]] develops methanogenic capacity, enabling hydrogen oxidation coupled to CO₂ reduction as a supplementary metabolism. From this divergence point two further grades emerge within the Novus sub-lineage.
+
+#### Novus Parcus
+*Innovation: limited methanogenesis as supplementary metabolism.*
+
+Novus Parcus is the earliest Novus grade — a Mobilis-equivalent organism that has developed the capacity to perform methanogenesis but has not yet shifted its metabolic centre of gravity away from iron reduction.
+
+**H₂ + CO₂ → CH₄ + H₂O**
+
+The methanogenic capacity in Parcus arises from lattice defect configurations at H₂ activation sites that produce electron transport pathways capable of directing electrons toward CO₂ reduction in addition to Fe³⁺ reduction. This is a routing difference in the existing circuit rather than a new metabolic system — the same H₂ splitting mechanism used for iron reduction is redirected toward CO₂ when Fe³⁺ availability drops below a threshold.
+
+Parcus uses methanogenesis exclusively as a transitional metabolism during detachment and transit between rock surfaces. When attached to Fe³⁺-rich rock iron reduction dominates entirely — methanogenesis contributes negligibly when rock-bound Fe³⁺ is abundant. When detached and navigating via electrophoresis, methanogenesis sustains reduced but viable metabolic activity, extending the juvenile and transit survival window significantly beyond what Mobilis can achieve on dissolved Fe³⁺ alone.
+
+The selective advantage over Mobilis is most pronounced in the cooler vent margins where Fe³⁺-rich rock surfaces are more widely spaced — the extended transit survival window allows Parcus to cross larger distances between suitable attachment sites, accessing rock surfaces that Mobilis juveniles and detached adults cannot reach before their gradients decay.
+
+Methane waste accumulates locally in Pocket A fluid as a consequence of Parcus methanogenesis. During the Erebian Era this output is ecologically insignificant at the scale of the broader subsurface water system — any methane diffusing toward [[Hydrology#Pocket B|Pocket B]] represents a negligible concentration increase. Its ecological significance belongs to the Photian Era.
+
+#### Novus Liber
+*Innovation: methanogenesis as primary metabolism.*
+
+Novus Liber emerges from Parcus populations through progressive selection favouring longer methanogenic transit periods in the Fe³⁺-scarce cooler margins. Over many generations the metabolic balance shifts — the defect configurations supporting methanogenesis become more elaborate and efficient, eventually reaching a threshold where methanogenesis alone can sustain not just transit but continuous independent existence.
+
+At this threshold Liber no longer requires rock attachment as its default metabolic state. Methanogenesis runs continuously, iron reduction is retained as a high-yield opportunistic supplement when electrophoretic drift brings the organism into contact with Fe³⁺-rich rock, but the organism's survival is no longer dependent on rock contact.
+
+Liber spends the majority of its existence as a free-floating organism within Pocket A fluid — the first life on [[Procyon Ab|Xenos]] genuinely untethered from a substrate. Electrophoresis operates continuously as a spatial orientation system, producing persistent passive drift toward Fe³⁺ gradients and periodic rock contact for iron reduction supplementation.
+
+The transition from Parcus to Liber is not a single event but a gradual population-level shift — there is no sharp boundary between a late Parcus organism and an early Liber organism. The grade distinction reflects the point at which methanogenesis becomes sufficient for continuous independent existence rather than merely extended transit survival.
+
+Liber represents the most metabolically and spatially liberated organism of the Erebian Era — a living demonstration that Ferrovita's iron-sulphur lattice architecture, despite its geological character and glacial timescales, is capable of genuine evolutionary innovation given sufficient time and selective pressure.
