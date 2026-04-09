@@ -14,33 +14,7 @@ Novus Ferrovita is the derived sub-lineage of [[Ferrovita]], descended from [[Fe
 Novus occupies the transitional zone between the extreme vent core chemistry of Firmus and the broader Pocket A fluid environment. These zones are characterised by lower but still significant temperatures, reduced rock-bound Fe³⁺ availability, and greater chemical variability than the stable vent cores Firmus inhabits. This variability is the selective pressure that drove Novus's metabolic diversification.
 
 ### Metabolic Evolution
-
 Novus's metabolism is not static across the Erebian Era but shifts progressively from iron reduction dominant to hydrogen oxidation dominant over geological timescales.
-
-#### Early Novus
-Early Novus is metabolically similar to [[Ferrovita Firmus]] — iron reduction from rock-bound Fe³⁺ remains the primary energy source, providing the highest energy yield when rock attachment is established. The key innovation distinguishing early Novus from Firmus is the capacity for **detachment and relocation** — lattice defect variations in early Novus populations altered electron transport behaviour sufficiently to enable hydrogen oxidation as a supplementary metabolism during transit between rock surfaces.
-
-**Primary metabolism when attached:** Iron reduction — follows [[Ferrovita#Metabolism]] exactly, rock-bound Fe³⁺ reduced via H₂ electron donation.
-
-**Transitional metabolism when detached:** Methanogenesis — hydrogen oxidation coupled to CO₂ reduction:
-
-**H₂ + CO₂ → CH₄ + H₂O**
-
-CO₂ in Pocket A fluid at ~5–10 mmol/L is insufficient as a primary long-term energy source but adequate to sustain reduced metabolic activity during transit between rock surfaces. Methane and water are produced as waste products, accumulating locally in Pocket A fluid.
-
-Early Novus therefore uses detachment opportunistically — when local rock Fe³⁺ is sufficiently depleted that iron reduction slows below a viable threshold, the organism detaches rather than entering dormancy, sustains itself on methanogenesis during transit, and uses electrophoresis to navigate toward a new Fe³⁺-rich rock surface. See [[Ferrovita Novus#Electrophoresis and Navigation]].
-
-#### Later Novus
-Across the Erebian Era selection pressure in the cooler, Fe³⁺-scarcer vent margins consistently favours organisms capable of sustaining themselves longer on hydrogen oxidation between rock contacts. Over many generations the metabolic balance shifts — hydrogen oxidation becomes the primary sustained energy source and iron reduction is retained as an opportunistic supplement rather than the default metabolic state.
-
-**Primary metabolism:** Hydrogen oxidation via methanogenesis — H₂ + CO₂ → CH₄ + H₂O, sustained continuously rather than only during transit.
-
-**Opportunistic metabolism:** Iron reduction — when electrophoretic navigation brings later Novus into contact with Fe³⁺-rich rock surfaces, iron reduction is exploited as a high-yield energy supplement. Rock attachment is no longer the preferred default state but a periodic energy acquisition strategy.
-
-Later Novus spends the majority of its time as a free-floating organism within Pocket A fluid, drifting along electrochemical gradients and periodically contacting rock surfaces for iron reduction supplements. This makes later Novus the most genuinely mobile organism of the Erebian Era — the first life on Xenos not permanently anchored to a substrate.
-
-**Methane output** increases significantly in later Novus populations as methanogenesis shifts from transitional to primary metabolism. This methane accumulates as waste in Pocket A fluid. During the Erebian Era physical separation between Pocket A and [[Hydrology#Pocket B|Pocket B]] means this output has negligible effect on [[Sulphovita]] chemistry — any methane reaching Pocket B represents at most a fractional increase in local concentration. The ecological significance of this chemical output belongs to the Photian Era.
-
 ### Electrophoresis and Navigation
 Novus retains the electrophoretic juvenile navigation mechanism described in [[Ferrovita#Juvenile Phase]] and extends it into adult life as a general navigation strategy.
 
@@ -69,7 +43,6 @@ The juvenile phase follows the electrophoretic navigation mechanism described in
 This gives Novus juveniles meaningfully higher survival rates than Firmus juveniles — the methanogenesis fallback extends the viable window for rock attachment significantly. Novus populations therefore grow faster than Firmus populations despite occupying less energetically rich zones, a consequence of improved juvenile survival rather than faster individual reproduction.
 
 ### Dormancy and Death
-
 Follows [[Ferrovita#Dormancy and Death]] for all general mechanisms.
 
 Novus-specific detail: dormancy is significantly rarer in Novus than Firmus. Where Firmus has no response to local Fe³⁺ depletion other than dormancy or death, Novus detaches and relocates. True dormancy in Novus occurs only when H₂ supply itself becomes insufficient — a less common scenario in Pocket A's vent margins than Fe³⁺ depletion alone. This makes Novus populations more resilient to localised vent chemistry fluctuations than Firmus, contributing to their eventual dominance in the marginal zones of Pocket A.
@@ -82,7 +55,6 @@ Spatial partitioning between Firmus and Novus is maintained by their differing e
 The two sub-lineages do not interact biochemically in any meaningful way during the Erebian Era — their waste products do not significantly affect each other's chemistry at the spatial scales and concentrations present in Pocket A. Their relationship is one of spatial coexistence and passive resource partitioning rather than active competition or cooperation.
 
 ### Evolutionary History
-
 Novus Ferrovita diverges from [[Ferrovita Firmus]] at the Mobilis grade — a Mobilis population in the cooler vent margins of [[Hydrology#Pocket A|Pocket A]] develops methanogenic capacity, enabling hydrogen oxidation coupled to CO₂ reduction as a supplementary metabolism. From this divergence point two further grades emerge within the Novus sub-lineage.
 
 #### Novus Parcus
