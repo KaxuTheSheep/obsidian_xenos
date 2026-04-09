@@ -95,7 +95,6 @@ Population-level diversity is maintained entirely through the inherent asymmetry
 
 ### [[Sulphovita]] Primalis Condensus
 *Emerges ~550 Million AC*
-
 Condensus emerges from Purus populations in high density sulphate-limited zones through progressive tightening of sulphur oxidation module clustering within the peptide network. Unlike domain-level divergences which involve novel biochemical mechanisms, Condensus represents a spatial reorganisation of existing Primalis machinery — the same Sulphide oxidase, Sulphur oxidase, and Sulphite oxidase modules present in Purus, repositioned into tighter functional proximity.
 
 #### The Clustering Innovation
