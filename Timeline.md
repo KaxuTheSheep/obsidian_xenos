@@ -22,8 +22,8 @@
     + First life emerges in deep hydrothermal vent systems as Ferrovita Firmus Rudis. These organisms are fully sessile, entirely dependent on rock-bound Fe³⁺ reduction, and rely on chance for juvenile settlement. This marks the first known instance of life on Xenos.
 
 + ~700 Million AC
-  + Emergence of Life — Sulphovita Primalis
-    + A second, completely independent origin of life appears as Sulphovita Primalis within chemically distinct regions of the same vent systems. These organisms utilise fluid-phase sulphur chemistry and replicate rapidly compared to Ferrovita. No interaction occurs between the two domains.
+  + Emergence of Life — Sulphovita Primalis Purus
+    + A second, completely independent origin of life appears as Sulphovita Primalis Purus within chemically distinct regions of the same vent systems. These organisms utilise fluid-phase sulphur chemistry and replicate rapidly compared to Ferrovita. No interaction occurs between the two domains.
 
 + ~600 Million AC
   + Ferrovita Firmus Tactus Evolution
