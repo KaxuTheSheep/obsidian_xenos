@@ -3,7 +3,7 @@ tags:
   - Life
 ---
 ### Overview
-Firmus [[Ferrovita]] is the ancestral sub-lineage of [[Ferrovita]], representing the oldest and most chemically conservative form of life on [[Procyon Ab|Xenos]]. Where [[Ferrovita Novus]] diverged toward hydrogen oxidation in cooler peripheral zones, Firmus remained committed to direct rock-bound iron reduction — the original metabolic strategy of all [[Ferrovita]] life. Firmus organisms are permanently attached to Fe³⁺-rich vent rock, growing across and consuming it over geological timescales. They are the closest living approximation to the first [[Ferrovita]] that ever existed.
+[[Ferrovita]] Firmus is the ancestral sub-lineage of [[Ferrovita]], representing the oldest and most chemically conservative form of life on [[Procyon Ab|Xenos]]. Where [[Ferrovita Novus]] diverged toward hydrogen oxidation in cooler peripheral zones, Firmus remained committed to direct rock-bound iron reduction — the original metabolic strategy of all [[Ferrovita]] life. Firmus organisms are permanently attached to Fe³⁺-rich vent rock, growing across and consuming it over geological timescales. They are the closest living approximation to the first [[Ferrovita]] that ever existed.
 
 ### Environmental Niche
 - **Location:** Deepest, hottest hydrothermal vent zones within [[Hydrology#Pocket A|Pocket A]]
@@ -42,8 +42,6 @@ Upon bud separation the juvenile Firmus enters the transitional phase described 
 This charge interacts with the electrochemical landscape of Pocket A fluid. Fe³⁺-rich rock surfaces present a strong positive electrochemical potential relative to the negatively charged juvenile. Through **electrophoresis** — movement of a charged particle through fluid along an electrochemical gradient — the juvenile is biased toward the nearest Fe³⁺-rich rock surface.
 
 Given [[Procyon Ab|Xenos]]'s 2.4g surface gravity and the juvenile's dense pyrite composition, electrophoretic movement is extremely slow. The juvenile does not navigate actively but drifts passively along the gradient, settling onto whatever Fe³⁺-rich surface it reaches first. Mortality is high — many juveniles fail to reach suitable rock before electrochemical gradients decay below recovery threshold. See [[Ferrovita#Juvenile Phase]].
-
-**Note on future evolution:** Early Firmus is permanently attached for its entire lifespan once established. Later Firmus lineages to evolve detachment and reattachment mechanisms as an adaptation to vent chemistry variability, but this innovation does not exist during the Erebian Era.
 ### Dormancy and Death
 Follows [[Ferrovita#Dormancy and Death]] entirely. Firmus-specific dormancy trigger is vent inactivity — reduction in H₂ flux and Fe³⁺ availability at the rock interface causes progressive gradient decay. Given Firmus occupies the most geologically active zones of Pocket A, vent inactivity is relatively rare but not absent over billion-year timescales.
 
