@@ -54,47 +54,82 @@ The shell grows simultaneously at two interfaces. At the fluid-facing surface ne
 This uneven growth is the foundation of Ferrovita's reproductive mechanism. Regions of accelerated accrual form outward protrusions — buds — that develop their own internal lattice structure and redox gradients inherited from the parent. At sufficient mass a bud generates mechanical stress at its connection point with the parent shell. When this stress exceeds the structural integrity of the connecting material the bud separates, settling nearby and attaching to available rock surface to begin independent growth. See [[Firmus Ferrovita]] and [[Novus Ferrovita]] for sub-lineage specific variations on this process.
 
 Structurally the organism remains inseparable from its substrate — the rock-facing surface and the rock itself are chemically continuous at the attachment interface. Ferrovita does not sit on rock. At its base it becomes rock, consuming and replacing mineral structure as it grows.
-
-
-
-
-
-
-
-
-### Environmental Niche
-- **Location:** Deep hydrothermal vent systems
-- **Temperature:** ~150–250°C (locally higher in microenvironments)
-- **Pressure:** Extreme (crustal/oceanic depths)
-- **Chemistry:** Iron-rich, sulfuric, highly acidic fluids
-- **Energy source:** Iron redox gradients driven by vent chemistry
-
-Ferrovita occupy the most chemically aggressive zones, where fluid interfaces create persistent energy gradients. Their existence is tightly coupled to these environments — they do not move, but grow where conditions permit.
-
 ### Metabolism
-- **Primary process:** Iron reduction–oxidation cycling
-- **Electron acceptors/donors:** Fe³⁺ / Fe²⁺ and sulphur compounds
-- **Mechanism:** Electron transport across the mineral lattice
-- **Energy use:** Maintaining structural growth and internal redox gradients
-Rather than internal biochemical pathways, Ferrovita metabolism occurs across their entire structure. The lattice itself acts as a conductive network, channelling electrons between regions of differing chemical potential. Energy is not stored in molecules but in maintained gradients and structural ordering.
+Ferrovita's metabolism is founded on a single core reaction — iron reduction using hydrogen as the primary electron donor:
 
-### Reproduction and Growth
-- **Mode:** Accretive budding and lattice fragmentation
-- **Timescale:** Extremely slow — years to centuries per replication cycle
-- **Process:**
-    - Local lattice expansion
-    - Formation of semi-independent growth nodes
-    - Eventual structural separation under stress or environmental shift
-Reproduction is indistinguishable from growth until separation occurs. “Offspring” are simply regions of the lattice that achieve sufficient independence to persist under slightly different conditions.
+**H₂ + 2Fe³⁺ → 2Fe²⁺ + 2H⁺**
 
-### System Role
-Within the ecosystems of [[Procyon Ab|Xenos]], Ferrovita act as:
-- **Primary redox mediators** in deep vent chemistry
-- **Geochemical stabilizers**, buffering iron and sulfur cycles
-- **Substrate creators** for more complex (possibly organic) life
-They may represent a parallel biosphere — one that never transitioned to carbon-based chemistry, remaining instead in a state close to Abiogenesis.
+Unlike carbon-based metabolic systems where reactions occur through molecular pathways in solution, Ferrovita's metabolism occurs across its entire solid-state lattice simultaneously. Electron transport is a structural phenomenon — the lattice itself is the metabolic machinery, with the defect pattern determining exactly how energy moves through the organism. Metabolism and genetics are therefore not merely linked but physically inseparable.
 
-### The Living Stone
-Ferrovita challenge the distinction between life and non-life. They do not move, breathe, or think in any recognizable way. They grow, persist, and slowly evolve — their “thought” expressed only as changes in structure over geological time.
-To most observers, they are indistinguishable from rock.  
-To the planet, they may be as alive as anything that has ever existed.
+#### Stepwise Mechanism
+**Step 1 — H₂ Import and Activation**
+H₂ diffuses passively through microfractures in the pyrite shell into the lattice interior. At specific lattice regions where defect geometry creates the appropriate electrochemical environment, H₂ undergoes oxidative splitting — the molecule is cleaved into two protons and two electrons. The precise configuration of defects at these activation sites determines their catalytic efficiency, linking genetic information directly to metabolic performance.
+
+**Step 2 — Electron Injection**
+The two electrons released from H₂ splitting are injected directly into the conductive lattice network at the activation site. Unlike enzymatic systems where electrons travel through molecular carriers in solution, Ferrovita's electrons enter a solid-state conductive network and travel through mineral structure rather than fluid.
+
+**Step 3 — Electron Transport**
+Electrons move through the lattice from regions of lower electrochemical potential toward regions of higher potential — specifically toward Fe³⁺ rich zones. The defect pattern functions as a circuit, determining exactly which pathways electrons follow, which regions receive priority supply, and how energy is distributed across the structure. Vacancy defects act as resistances, substitution defects alter local conductivity, and oxidation state variations create electrochemical gradients that direct electron flow. The organism's genetic identity and its metabolic behaviour are expressed through the same physical phenomenon.
+
+**Step 4 — Fe³⁺ Reduction**
+Electrons arrive at Fe³⁺ reduction sites and complete the core reaction — Fe³⁺ accepts electrons and is reduced to Fe²⁺. Energy is released at this step and captured not in molecular bonds but in maintained electrochemical gradients across the lattice structure. These gradients drive further growth, shell accrual, and bud development.
+
+**Step 5 — Proton Expulsion**
+The two protons produced during H₂ activation are expelled outward through the shell into surrounding fluid. Continuous proton expulsion slightly acidifies the immediate fluid environment around the organism, creating a localised chemical signature that distinguishes actively metabolising Ferrovita from inert mineral formations.
+
+#### Energy Storage and Use
+Ferrovita does not store energy in molecules — there are no ATP equivalents, no chemical energy reserves. Energy exists only as maintained electrochemical gradients across the lattice. When metabolic activity slows these gradients decay, reducing the organism's capacity for growth and reproduction. When activity is high gradients steepen, accelerating lattice accrual and bud development.
+
+This means Ferrovita has no energy buffer — it is entirely dependent on continuous Fe³⁺ availability and H₂ supply. Interruption of either substrate causes immediate metabolic slowdown rather than a buffered response. Given the geological stability of Pocket A's vent chemistry this is rarely a problem during the Erebian Era, but represents a fundamental vulnerability that will become significant during post-capture environmental transitions.
+
+#### Waste Products and Ecological Implications
+The primary waste products of Ferrovita metabolism are:
+- **Fe²⁺** — released into surrounding fluid, significantly enriching the already iron-saturated Pocket A environment
+- **H⁺** — continuous proton expulsion maintaining local acidity
+- **H₂O** — produced as Fe²⁺ and expelled protons react with available oxygen compounds in fluid
+
+Fe²⁺ accumulation in Pocket A fluid represents the most significant ecological output of Ferrovita metabolism — continuously enriching the iron chemistry of the vent environment and maintaining the strongly reducing conditions that define Pocket A. This output will have significant implications for the broader Xenian biosphere during the Photian Era when Ferrovita and [[Sulphovita]] domains come into contact.
+### Reproduction
+Ferrovita reproduces through **asymmetric budding** — a process emerging directly from the physics of bidirectional shell growth rather than any active reproductive mechanism. Reproduction is inseparable from growth; the organism does not initiate reproduction as a distinct biological event but instead buds as an inevitable consequence of how it builds itself.
+
+#### Bud Formation
+The pyrite shell accretes simultaneously at two interfaces — inward at the rock-facing surface as Fe³⁺ is consumed from the substrate, and outward at the fluid-facing surface as dissolved iron and sulphur from Pocket A fluid crystallise onto the exterior. Growth rate is spatially uneven across both surfaces, governed by local chemical availability, temperature variation, and the existing defect pattern's influence on crystallisation.
+
+Regions of accelerated accrual develop outward protrusions — buds. As a bud grows it develops its own internal lattice structure, with new FeS₂ crystallising around the inherited defect pattern propagated from the parent. The bud's internal redox gradients establish progressively as its lattice matures, eventually reaching sufficient complexity to sustain independent metabolic activity.
+
+#### Defect Inheritance and Variation
+The bud inherits its parent's defect pattern through the same templated crystallisation mechanism that governs all Ferrovita growth. However bud formation introduces variation at rates significantly higher than normal growth — the geometry of the connection point between bud and parent creates mechanical stress that distorts crystallisation, uneven iron and sulphur supply to the developing bud produces substitution and vacancy defects not present in the parent, and thermal fluctuations during the extended bud development period compound these effects.
+
+Bud inheritance is therefore characterised by **more variation than fidelity** — daughter organisms are recognisably derived from their parent's electrochemical architecture but carry meaningful differences in their defect patterns. These differences translate directly into different metabolic behaviours, growth tendencies, and environmental tolerances, driving diversification across Ferrovita populations over geological timescales.
+
+#### Separation
+At sufficient mass the bud generates mechanical stress at its connection point with the parent shell that exceeds the structural integrity of the connecting pyrite material. The connection fractures and the bud separates as an independent organism.
+
+Separation is not actively controlled — it occurs when physical forces dictate. The timing is therefore variable, influenced by bud growth rate, parent shell thickness at the connection point, fluid turbulence, and thermal expansion cycles. A single parent organism may carry multiple buds at different stages of development simultaneously, separating sequentially as each reaches sufficient mass.
+
+#### Juvenile Phase
+Following separation the juvenile Ferrovita enters a transitional phase before rock attachment is established. During this period it relies entirely on dissolved Fe³⁺ from Pocket A fluid — a scarce resource at 2–8 mmol/L compared to the concentrated Fe³⁺ available at rock surfaces. Metabolic activity is reduced but not absent, sustained by whatever dissolved Fe³⁺ the juvenile can access combined with passively diffusing H₂.
+
+The juvenile phase ends upon successful attachment to a Fe³⁺ rich rock surface, at which point full metabolic activity resumes and growth begins in earnest. Mortality during the juvenile phase is high — the combination of reduced metabolic capacity, dense pyrite mass under 2.4g gravity, and dependence on scarce dissolved Fe³⁺ means many juveniles fail to establish before their electrochemical gradients decay below the threshold required to sustain the attachment process. Ferrovita compensates through continuous bud production over geological timescales rather than through juvenile survival efficiency.
+
+#### Growth Rate
+Established Ferrovita grows extremely slowly — lattice accrual is constrained by iron reduction rate, H₂ diffusion, and crystal growth thermodynamics at 150–250°C. Individual organisms may take **decades to centuries** to reach sizes sufficient for bud production. Full reproductive cycles — from bud initiation to juvenile attachment and establishment — operate on timescales of **centuries to millennia**.
+
+This makes Ferrovita evolution extraordinarily slow relative to [[Sulphovita]], whose reproductive cycle completes in days to weeks. Over the billion years of the Erebian Era however even Ferrovita's glacial reproductive rate produces many generations of accumulated variation, particularly in the defect patterns governing electron flow and Fe³⁺ reduction efficiency.
+
+### Dormancy and Death
+Ferrovita does not die through biological decay. As a mineral structure with no organic components there is no intrinsic degradation mechanism — a Ferrovita organism that ceases metabolic activity simply stops, its pyrite lattice persisting indefinitely in whatever state it occupied at the moment of cessation.
+
+#### Dormancy
+When chemical substrates fall below the threshold required to maintain electrochemical gradients — due to vent inactivity, Fe³⁺ depletion, or H₂ scarcity — Ferrovita enters dormancy. Metabolic activity slows progressively as gradients decay, eventually reaching a state of complete electrochemical stillness. The lattice structure remains physically intact and the defect pattern is fully preserved.
+
+Dormancy has no maximum duration. A dormant Ferrovita is chemically inert but structurally complete — residual electrochemical gradients, however decayed, persist within the lattice indefinitely as long as the physical structure remains intact. If suitable chemistry returns, even after geological timescales of dormancy, these residual gradients can seed metabolic recovery. Individual Ferrovita organisms are therefore potentially immortal — the oldest Firmus individuals may have persisted since the earliest Erebian Era, surviving multiple vent cycles through repeated dormancy and recovery.
+
+A dormant Ferrovita is physically indistinguishable from dead Ferrovita or inert rock. Without active electron transport no chemical signature distinguishes it from its surroundings.
+
+#### Death
+True death — irreversible cessation — occurs only through three mechanisms:
+
+**Structural destruction** — geological activity, mechanical stress, or competitive displacement physically shatters the lattice. If fragmentation is severe enough that no region retains sufficient structural continuity to maintain even residual gradients, recovery is impossible. Fragments below a critical size threshold cannot sustain the electrochemical complexity required for metabolic recovery and are functionally dead, becoming inert mineral matter indistinguishable from surrounding rock.
+
+**Permanent vent extinction** — if the vent system supplying Fe³⁺ and H₂ closes permanently with no recovery, gradients decay to absolute zero over sufficient time. Once residual gradi
