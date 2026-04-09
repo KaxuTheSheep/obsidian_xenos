@@ -28,6 +28,9 @@
 + ~600 Million AC
   + Ferrovita Firmus Tactus Evolution
     + Ferrovita Firmus Tactus evolves from Rudis populations. Juveniles develop electrophoretic drift, allowing passive movement toward Fe³⁺-rich rock surfaces. This significantly improves establishment success and marks the first directed interaction with the electrochemical environment.
++ ~575 Million AC
+  + Emergence of Sulphovita Primalis Condensus
+    + In high density zones of Pocket B where sulphate depletion outpaces vent replenishment, selection pressure drives progressive tightening of sulphur oxidation module clustering within Sulphovita Primalis populations. Sulphovita Primalis Condensus emerges as the clustering becomes ecologically significant — internal handoff between Sulphide oxidase, Sulphur oxidase, and Sulphite oxidase reduces intermediate escape, preserving the shared sulphate pool more effectively than Purus. Proto-division of labour emerges as the sulphur processing cluster becomes a distinct functional zone within the peptide network. Daughter inheritance becomes more consistent as clustered modules replicate in proximity. Condensus dominates clean sulphate-limited zones but is outcompeted by Sulphovita Primalis Purus in intermediate-rich fluid where Purus's loosely distributed modules scavenge external S⁰ and thiosulphate more efficiently than Condensus's inward-oriented machinery.
 
 + ~500 Million AC
   + Emergence of Sulphovita Copula Incitor
@@ -59,4 +62,5 @@
 
 
 ```
+
 
