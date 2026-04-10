@@ -9,7 +9,7 @@ Xenos is a high-density rogue world that formed outside the Procyon system and w
 - A dense primordial atmosphere (~47 atm)
 - Continuous volcanism and hydrothermal vent systems
 
-All known life originates in these vent systems, forming two fundamentally different biological domains:
+All known life originates in these vent systems, forming two fundamentally different biological radices:
 
 - **Ferrovita** — mineral-based, iron-redox life
 - **Sulphovita** — peptide-based, sulphur-cycle life
@@ -49,9 +49,9 @@ This repository is designed for use in **Obsidian**, leveraging:
 - A modular structure for scalable worldbuilding
 
 ## Status
-Active development. Core planetary systems and primary biological domains are established; further expansion will focus on:
+Active development. Core planetary systems and primary biological radices are established; further expansion will focus on:
 - Post-capture environmental transformation
-- Interaction between biological domains
+- Interaction between biological radices
 - Ecosystem complexity and diversification
 
 _Xenos is not a habitable world in the conventional sense — it is a chemically active system where life emerges from geology rather than existing alongside it._

@@ -48,7 +48,7 @@ See [[Atmosphere]] for full composition.
 
 ## Life
 All known life on Xenos originates in hydrothermal vent systems during the [[Glossary#Erebian Era|Erebian Era]].
-Two independent domains emerged:
+Two independent radices emerged:
 - [[Ferrovita]] — mineral-based, iron-redox organisms  
 - [[Sulphovita]] — peptide-based, sulphur-cycle organisms  
 

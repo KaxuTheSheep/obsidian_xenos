@@ -3,7 +3,7 @@ tags:
   - Life
 ---
 ### Overview
-Sulphovita is one of the two founding domains of life on Xenos, emerging independently from Ferrovita during the Erebian Era. Inhabiting the peripheral zones of hydrothermal vent systems, Sulphovita represents a completely independent origin of life with fundamentally different molecular architecture and evolutionary strategy to Ferrovita. Where Ferrovita is defined by stability, mineral structure, and geological timescales, Sulphovita is defined by adaptability, fluid-phase chemistry, and rapid replication.
+Sulphovita is one of the two founding radices of life on Xenos, emerging independently from Ferrovita during the Erebian Era. Inhabiting the peripheral zones of hydrothermal vent systems, Sulphovita represents a completely independent origin of life with fundamentally different molecular architecture and evolutionary strategy to Ferrovita. Where Ferrovita is defined by stability, mineral structure, and geological timescales, Sulphovita is defined by adaptability, fluid-phase chemistry, and rapid replication.
 
 All Sulphovita share a common biochemical foundation — peptide-based information encoding, conformational stabilisation as the replication mechanism, and a sulphonolipid membrane as the organismal boundary. Beyond this shared architecture, Sulphovita has diversified into distinct domains across the Erebian Era, each occupying different chemical niches within Pocket B.
 

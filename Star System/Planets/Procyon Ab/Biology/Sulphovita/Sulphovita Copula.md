@@ -12,7 +12,7 @@ tags:
 - **Energy source:** Methane oxidation via iron-coordinated activation, H₂S oxidation retained opportunistically (Incitor) or abandoned entirely (Solutus)
 
 ### The Core Innovation — Iron-Coordinated Methane Activation
-Baseline [[Sulphovita]] activates methane by borrowing energy from concurrent H₂S oxidation to overcome the C-H bond activation barrier. This coupling creates a hard dependency — without sufficient H₂S, methane oxidation cannot initiate regardless of methane availability.
+Baseline [[Sulphovita Primalis]] activates methane by borrowing energy from concurrent H₂S oxidation to overcome the C-H bond activation barrier. This coupling creates a hard dependency — without sufficient H₂S, methane oxidation cannot initiate regardless of methane availability.
 
 [[Sulphovita]] Copula resolves this through a fundamentally different activation mechanism. A dedicated peptide module — **Ferric coordinase** — maintains a small internal Fe²⁺/Fe³⁺ redox cycle. The transition between oxidation states generates localised radical chemistry sufficient to destabilise the methane C-H bond, replacing H₂S priming entirely as the activation mechanism.
 
