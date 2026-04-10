@@ -3,7 +3,7 @@ tags:
   - Life
 ---
 ### Overview
-Novus Ferrovita is the derived sub-lineage of [[Ferrovita]], descended from [[Ferrovita Firmus]] through local lattice defect variation in the cooler marginal zones of [[Hydrology#Pocket A|Pocket A]]. Where Firmus is permanently committed to rock-bound iron reduction, Novus represents the first meaningful metabolic diversification in Ferrovita history — developing hydrogen oxidation as a supplementary metabolism that gradually becomes primary across the Erebian Era. Novus is the first life on [[Procyon Ab|Xenos]] capable of sustained detachment and relocation, making it the most mobile organism of the Erebian Era despite operating on geological timescales.
+Novus Ferrovita is the derived domain of [[Ferrovita]], descended from [[Ferrovita Firmus]] through local lattice defect variation in the cooler marginal zones of [[Hydrology#Pocket A|Pocket A]]. Where Firmus is permanently committed to rock-bound iron reduction, Novus represents the first meaningful metabolic diversification in Ferrovita history — developing hydrogen oxidation as a supplementary metabolism that gradually becomes primary across the Erebian Era. Novus is the first life on [[Procyon Ab|Xenos]] capable of sustained detachment and relocation, making it the most mobile organism of the Erebian Era despite operating on geological timescales.
 ### Environmental Niche
 - **Location:** Cooler vent margins within [[Hydrology#Pocket A|Pocket A]], peripheral to Firmus zones
 - **Temperature:** ~110–130°C
@@ -89,12 +89,12 @@ Novus-specific detail: dormancy is significantly rarer in Novus than Firmus. Whe
 ### Relationship to Firmus Ferrovita
 Novus descended from marginal Firmus populations occupying the cooler periphery of Pocket A vent zones. The divergence was gradual — lattice defect variation accumulating over many generations until hydrogen oxidation capacity crossed the threshold of metabolic utility. There was no single divergence event but a progressive shift across a population already operating at the edge of Firmus's viable temperature and Fe³⁺ range.
 
-Spatial partitioning between Firmus and Novus is maintained by their differing environmental tolerances — Firmus dominates the hottest direct vent zones, Novus the cooler margins. Overlap zones at intermediate conditions host both sub-lineages. In these zones Firmus's superior rock-bound Fe³⁺ access gives it a metabolic advantage while Novus's mobility and methanogenesis fallback allow it to persist and exploit resources Firmus cannot reach.
+Spatial partitioning between Firmus and Novus is maintained by their differing environmental tolerances — Firmus dominates the hottest direct vent zones, Novus the cooler margins. Overlap zones at intermediate conditions host both domains. In these zones Firmus's superior rock-bound Fe³⁺ access gives it a metabolic advantage while Novus's mobility and methanogenesis fallback allow it to persist and exploit resources Firmus cannot reach.
 
-The two sub-lineages do not interact biochemically in any meaningful way during the Erebian Era — their waste products do not significantly affect each other's chemistry at the spatial scales and concentrations present in Pocket A. Their relationship is one of spatial coexistence and passive resource partitioning rather than active competition or cooperation.
+The two domains do not interact biochemically in any meaningful way during the Erebian Era — their waste products do not significantly affect each other's chemistry at the spatial scales and concentrations present in Pocket A. Their relationship is one of spatial coexistence and passive resource partitioning rather than active competition or cooperation.
 
 ### Evolutionary History
-Ferrovita Novus diverges from [[Ferrovita Firmus]] at the Mobilis grade — a Mobilis population in the cooler vent margins of [[Hydrology#Pocket A|Pocket A]] develops methanogenic capacity, enabling hydrogen oxidation coupled to CO₂ reduction as a supplementary metabolism. From this divergence point two further grades emerge within the Novus sub-lineage.
+Ferrovita Novus diverges from [[Ferrovita Firmus]] at the Mobilis grade — a Mobilis population in the cooler vent margins of [[Hydrology#Pocket A|Pocket A]] develops methanogenic capacity, enabling hydrogen oxidation coupled to CO₂ reduction as a supplementary metabolism. From this divergence point two further grades emerge within the Novus domain.
 
 #### Novus Parcus
 *Innovation: limited methanogenesis as supplementary metabolism.*

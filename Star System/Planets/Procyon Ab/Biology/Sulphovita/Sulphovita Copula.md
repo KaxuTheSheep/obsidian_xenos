@@ -46,7 +46,7 @@ This opportunism is Incitor's defining ecological character — it is not a spec
 Incitor outcompetes baseline [[Sulphovita]] in iron-rich, H₂S-poor peripheral zones. In H₂S-rich zones baseline [[Sulphovita]]'s lower metabolic overhead gives it a competitive advantage — Incitor pays the cost of iron retention regardless of whether Ferric coordinase is actively running, a fixed overhead that baseline [[Sulphovita]] never incurs.
 
 ### [[Sulphovita]] Solutus
-*Emerges ~300 Million AC*
+*Emerges ~320 Million AC*
 
 #### Overview
 Solutus is the specialist stage of the Copula lineage and the direct descendant of Incitor populations in the most H₂S-depleted peripheral zones. Where Incitor retained H₂S oxidation as a fallback, Solutus has abandoned it entirely — the first organism on [[Procyon Ab|Xenos]] to completely relinquish a founding metabolic pathway.
