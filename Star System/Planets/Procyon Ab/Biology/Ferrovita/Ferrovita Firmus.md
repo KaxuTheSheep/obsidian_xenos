@@ -64,37 +64,40 @@ Firmus and Novus spatially partition Pocket A — Firmus dominates the hottest, 
 
 ### Evolutionary History
 Ferrovita Firmus represents the terminal point of the iron-reduction-only lineage within [[Ferrovita]]. Three evolutionary grades preceded the mature Firmus form, each defined by a single key innovation building on the last.
+#### Ferrovita Firmus Rudis
+*Innovation: none — the original grade, sessile and chance-dependent.*
 
-#### Ferrovita Rudis
-*The original grade — sessile, chance-dependent, purely iron-reducing.*
-
-Ferrovita Rudis is the most primitive documented grade of Ferrovita life — the closest approximation to the first Ferrovita organisms that emerged during the early Erebian Era. Rudis organisms are entirely dependent on iron reduction from rock-bound Fe³⁺, with no supplementary metabolism and no directed juvenile navigation.
+Ferrovita Firmus Rudis is the most primitive documented lineage of Ferrovita life — the closest approximation to the first Ferrovita organisms that emerged during the early Erebian Era. Rudis organisms are entirely dependent on iron reduction from rock-bound Fe³⁺, with no supplementary metabolism and no directed juvenile navigation.
 
 Following bud separation Rudis juveniles drift entirely passively through Pocket A fluid, carried by thermal convection and fluid turbulence rather than any electrochemical gradient. Juvenile mortality is extremely high — most buds settle on unsuitable surfaces or exhaust their residual electrochemical gradients before contacting Fe³⁺-rich rock. Rudis compensates through continuous bud production over geological timescales, a strategy of quantity over survival efficiency.
 
-Rudis persists as a grade throughout the Erebian Era — it does not disappear when subsequent grades emerge but continues to exist in populations where the selective pressure for electrophoresis is insufficient to drive the innovation. In the most Fe³⁺-rich vent core zones where suitable rock surfaces are abundant and juveniles encounter them by chance at sufficient rates, Rudis remains viable indefinitely.
+##### Competitive Position
+Rudis persists as a lineage throughout the Erebian Era — it does not disappear when subsequent lineages emerge but continues to exist in populations where the selective pressure for electrophoresis is insufficient to drive the innovation. In the most Fe³⁺-rich vent core zones where suitable rock surfaces are abundant and juveniles encounter them by chance at sufficient rates, Rudis remains viable indefinitely. It is outcompeted by Tactus in zones where rock surfaces are more widely spaced and juvenile navigation meaningfully improves establishment rates.
 
-#### Ferrovita Tactus
+---
+
+#### Ferrovita Firmus Tactus
 *Innovation: electrophoretic juvenile navigation.*
 
-Ferrovita Tactus emerges from Rudis populations through lattice defect variation producing a sufficient electron accumulation response in juveniles to generate meaningful electrophoretic drift. The selective advantage is immediate and significant — juveniles that drift toward Fe³⁺-rich rock rather than settling randomly survive at dramatically higher rates than Rudis juveniles in the same environment.
+Ferrovita Firmus Tactus emerges from Rudis populations through lattice defect variation producing sufficient electron accumulation response in juveniles to generate meaningful electrophoretic drift. The selective advantage is immediate and significant — juveniles that drift toward Fe³⁺-rich rock rather than settling randomly survive at dramatically higher rates than Rudis juveniles in the same environment.
 
 The electrophoretic mechanism follows the same physical principle described in [[Ferrovita Firmus#Reproduction]] — electron accumulation from excess H₂ input relative to scarce dissolved Fe³⁺ generates a net negative charge, producing passive drift toward the strongest positive electrochemical potential in the vicinity, which corresponds to Fe³⁺-rich rock surfaces.
 
 Tactus adults retain the permanent rock attachment of Rudis — electrophoresis operates only during the juvenile phase. Once established on rock Tactus organisms are as sessile as Rudis, growing across and consuming the rock face until Fe³⁺ depletion forces dormancy. The innovation is entirely a juvenile survival improvement, not an adult mobility gain.
 
-Tactus represents a significant population expansion relative to Rudis in zones where Fe³⁺-rich rock surfaces are present but not immediately adjacent to budding parents — the improved juvenile navigation closing the gap between bud production and successful establishment.
+##### Competitive Position
+Tactus represents a significant population expansion relative to Rudis in zones where Fe³⁺-rich rock surfaces are present but not immediately adjacent to budding parents — the improved juvenile navigation closing the gap between bud production and successful establishment. In the most Fe³⁺-rich vent core zones where Rudis juvenile chance-settlement succeeds at sufficient rates, Rudis and Tactus coexist without strong competitive exclusion. In zones of moderate rock surface density Tactus's improved juvenile survival gives it a decisive advantage.
 
-#### Ferrovita Mobilis
+#### Ferrovita Firmus Mobilis
 *Innovation: adult detachment and reattachment.*
 
-Ferrovita Mobilis emerges from Tactus populations through defect variations extending the electrophoretic mechanism from juvenile-only to adult capability. The innovation is not the electrophoresis itself — Tactus already has this — but the development of a **detachment mechanism** allowing an established adult to separate from its rock substrate voluntarily in response to Fe³⁺ depletion.
+Ferrovita Firmus Mobilis emerges from Tactus populations through defect variations extending the electrophoretic mechanism from juvenile-only to adult capability. The innovation is not electrophoresis itself — Tactus already has this — but the development of a **detachment mechanism** allowing an established adult to separate from its rock substrate voluntarily in response to Fe³⁺ depletion.
 
 The detachment mechanism involves selective dissolution of the rock-facing pyrite interface under electrochemical control — the same gradients that normally drive rock integration can be partially reversed, loosening the attachment sufficiently for fluid dynamics and gravity to complete separation. This is metabolically costly and represents a last resort rather than a routine behaviour — Mobilis detaches only when local Fe³⁺ has depleted to the point where continued attachment provides insufficient energy to maintain gradients.
 
 Post-detachment Mobilis uses electrophoresis as an adult navigation mechanism, drifting toward new Fe³⁺-rich rock surfaces. Upon contact the rock-facing interface re-establishes through normal pyrite accrual and iron reduction resumes.
 
-Mobilis effectively eliminates dormancy as a response to local Fe³⁺ depletion — where Rudis and Tactus must wait for vent chemistry to recover or die, Mobilis relocates. This makes Mobilis populations significantly more resilient to localised vent chemistry variability and represents the final evolutionary grade before the Firmus/Novus divergence.
+##### Competitive Position
+Mobilis effectively eliminates dormancy as a response to local Fe³⁺ depletion — where Rudis and Tactus must wait for vent chemistry to recover or die, Mobilis relocates. This makes Mobilis populations significantly more resilient to localised vent chemistry variability and the dominant lineage across most Firmus zones by the later Erebian Era. Rudis and Tactus persist in stable high Fe³⁺ zones where relocation is unnecessary, but Mobilis's resilience advantage compounds over geological timescales into clear population dominance.
 
-#### The Divergence Point
-At the Mobilis grade the Ferrovita lineage diverges. The majority of Mobilis populations retain iron reduction as their sole metabolism — these become the [[Ferrovita Firmus]] domain as documented in this note. A Mobilis population in the cooler vent margins develops methanogenic capacity through lattice defect variation enabling CO₂ reduction — these become the [[Ferrovita Novus]] domain. See [[Ferrovita Novus#Evolutionary History]] for the subsequent Novus grades.
+Mobilis represents the final evolutionary lineage before the Firmus/Novus divergence — see [[Ferrovita Novus#Relationship to Ferrovita Firmus]].
