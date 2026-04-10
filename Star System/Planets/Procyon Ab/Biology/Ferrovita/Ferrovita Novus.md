@@ -14,7 +14,46 @@ Novus Ferrovita is the derived sub-lineage of [[Ferrovita]], descended from [[Fe
 Novus occupies the transitional zone between the extreme vent core chemistry of Firmus and the broader Pocket A fluid environment. These zones are characterised by lower but still significant temperatures, reduced rock-bound Fe³⁺ availability, and greater chemical variability than the stable vent cores Firmus inhabits. This variability is the selective pressure that drove Novus's metabolic diversification.
 
 ### Metabolic Evolution
-Novus's metabolism is not static across the Erebian Era but shifts progressively from iron reduction dominant to hydrogen oxidation dominant over geological timescales.
+Novus's metabolism is not static across the Erebian Era but shifts progressively from iron reduction dominant to hydrogen oxidation dominant, reflected in the two grades of the Novus domain.
+
+#### Iron Reduction
+Iron reduction is the ancestral metabolism inherited from [[Ferrovita Firmus]], retained across both Novus grades as either primary or opportunistic energy acquisition. The core reaction is:
+
+**H₂ + 2Fe³⁺ → 2Fe²⁺ + 2H⁺**
+
+The mechanism follows [[Ferrovita#Metabolism]] entirely — electron transport occurs across the solid-state lattice, with H₂ splitting at activation sites injecting electrons into the conductive network and directing them toward Fe³⁺ reduction zones. In Novus the primary distinction from Firmus is the source of Fe³⁺ — rock-bound Fe³⁺ at direct attachment interfaces where available, dissolved Fe³⁺ from Pocket A fluid during transit and free-floating periods.
+
+Fe³⁺ availability in Novus zones is lower than in Firmus vent cores — rock surfaces are more widely spaced and dissolved Fe³⁺ in Pocket A fluid sits at ~2–8 mmol/L. This scarcity is the primary selective pressure driving methanogenesis development across Novus grades.
+
+**Waste products:** Fe²⁺ released into Pocket A fluid, H⁺ expelled outward maintaining local acidity.
+
+#### Methanogenesis
+Methanogenesis is Novus's defining metabolic innovation — hydrogen oxidation coupled to CO₂ reduction:
+
+**H₂ + CO₂ → CH₄ + H₂O**
+
+The reaction uses the same H₂ splitting mechanism as iron reduction but redirects electrons toward CO₂ rather than Fe³⁺. This redirection is encoded in lattice defect configurations at H₂ activation sites — specific defect patterns produce electron transport pathways capable of routing electrons toward CO₂ reduction zones within the lattice when Fe³⁺ availability drops below threshold.
+
+##### Stepwise Mechanism
+**Step 1 — H₂ Splitting** H₂ → 2H⁺ + 2e⁻ Identical to the iron reduction mechanism — H₂ diffuses through microfractures into the lattice interior, undergoing oxidative splitting at activation sites where defect geometry creates the appropriate electrochemical environment. Electrons are injected into the conductive lattice network.
+
+**Step 2 — Electron Routing** Electrons enter the lattice and are directed by the defect pattern toward CO₂ reduction sites rather than Fe³⁺ reduction sites. The routing is concentration-dependent — when dissolved Fe³⁺ is abundant electrons are preferentially directed toward Fe³⁺ reduction as the higher-yield pathway. When Fe³⁺ falls below threshold the defect pattern directs electrons toward CO₂ reduction instead. This is not an active switching mechanism but a passive electrochemical response to gradient conditions.
+
+**Step 3 — CO₂ Reduction** CO₂ + 2e⁻ → intermediate carbon species CO₂ dissolved in Pocket A fluid at ~5–10 mmol/L diffuses into the lattice and undergoes sequential reduction at CO₂ reduction sites. The reduction proceeds through intermediate carbon species analogous to the steps of terrestrial methanogenesis but occurring across solid-state lattice surfaces rather than through molecular enzyme pathways.
+
+**Step 4 — Methane Release** Fully reduced carbon is expelled as CH₄ through microfractures into surrounding Pocket A fluid. Water is simultaneously produced and expelled. Methane accumulates locally in Pocket A fluid, with any long range diffusion toward Pocket B remaining ecologically negligible during the Erebian Era.
+
+##### Pathway Switching
+Methanogenesis and iron reduction are not truly independent pathways but competing destinations for the same electron supply. Switching is passive and concentration-driven:
+
+- **Fe³⁺ abundant** — iron reduction dominates, methanogenesis minimal
+- **Fe³⁺ scarce, CO₂ available** — methanogenesis dominates, iron reduction opportunistic
+- **Fe³⁺ scarce, CO₂ scarce** — metabolic activity reduced, organism enters low activity state or dormancy
+
+In Ferrovita Novus Parcus this switching operates primarily during detachment — iron reduction dominates at rock surfaces, methanogenesis sustains transit. In Ferrovita Novus Liber methanogenesis runs continuously as the default state, iron reduction activating opportunistically upon rock contact.
+
+##### Energy Yield
+Methanogenesis yields significantly less energy per reaction than rock-bound iron reduction — the free energy of CO₂ reduction to methane is lower than Fe³⁺ reduction from mineral surfaces. Novus therefore operates at a lower sustained energy flux than Firmus when methanogenesis is primary. The tradeoff is independence from rock substrate — lower energy yield sustained continuously outcompetes higher energy yield available only intermittently during rock contact.
 ### Electrophoresis and Navigation
 Novus retains the electrophoretic juvenile navigation mechanism described in [[Ferrovita#Juvenile Phase]] and extends it into adult life as a general navigation strategy.
 
