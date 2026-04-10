@@ -55,7 +55,7 @@ Spatial partitioning between Firmus and Novus is maintained by their differing e
 The two sub-lineages do not interact biochemically in any meaningful way during the Erebian Era — their waste products do not significantly affect each other's chemistry at the spatial scales and concentrations present in Pocket A. Their relationship is one of spatial coexistence and passive resource partitioning rather than active competition or cooperation.
 
 ### Evolutionary History
-Novus Ferrovita diverges from [[Ferrovita Firmus]] at the Mobilis grade — a Mobilis population in the cooler vent margins of [[Hydrology#Pocket A|Pocket A]] develops methanogenic capacity, enabling hydrogen oxidation coupled to CO₂ reduction as a supplementary metabolism. From this divergence point two further grades emerge within the Novus sub-lineage.
+Ferrovita Novus diverges from [[Ferrovita Firmus]] at the Mobilis grade — a Mobilis population in the cooler vent margins of [[Hydrology#Pocket A|Pocket A]] develops methanogenic capacity, enabling hydrogen oxidation coupled to CO₂ reduction as a supplementary metabolism. From this divergence point two further grades emerge within the Novus sub-lineage.
 
 #### Novus Parcus
 *Innovation: limited methanogenesis as supplementary metabolism.*
