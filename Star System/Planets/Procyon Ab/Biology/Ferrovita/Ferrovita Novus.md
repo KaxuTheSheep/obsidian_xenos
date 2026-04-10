@@ -86,6 +86,18 @@ Follows [[Ferrovita#Dormancy and Death]] for all general mechanisms.
 
 Novus-specific detail: dormancy is significantly rarer in Novus than Firmus. Where Firmus has no response to local Fe³⁺ depletion other than dormancy or death, Novus detaches and relocates. True dormancy in Novus occurs only when H₂ supply itself becomes insufficient — a less common scenario in Pocket A's vent margins than Fe³⁺ depletion alone. This makes Novus populations more resilient to localised vent chemistry fluctuations than Firmus, contributing to their eventual dominance in the marginal zones of Pocket A.
 
+### Ecological Character
+Mobile, methane-producing, and marginally transformative.
+
+Ferrovita Novus occupies the transitional zones between Firmus's vent core dominance and the broader Pocket A fluid environment. Where Firmus is a stationary geological consumer, Novus is the first ecological actor on Xenos capable of sustained movement — carrying biological chemical modification away from fixed vent interfaces and distributing it across the broader fluid environment of Pocket A's cooler margins.
+
+The primary ecological output distinguishing Novus from Firmus is **methane production**. Methanogenesis in Ferrovita Novus Parcus begins as a minor transitional metabolism, but as Novus Liber emerges and methanogenesis becomes the primary metabolic pathway, methane accumulation in Pocket A fluid becomes a sustained and increasing chemical output. Over the latter half of the Erebian Era Liber populations represent a continuous methane source in the cooler vent margins — a biological contribution to Pocket A's gas chemistry that has no abiotic equivalent at equivalent rates.
+
+CO₂ drawdown accompanies methane production — methanogenesis consumes dissolved CO₂ at ~5–10 mmol/L in Pocket A fluid, creating localised depletion zones around high density Liber populations. This effect remains spatially limited due to continuous vent replenishment but represents a genuine biological modification of carbon chemistry in the vent margins.
+
+Fe²⁺ output from Novus iron reduction, while present, is significantly lower than Firmus's contribution — Novus accesses dissolved Fe³⁺ at 2–8 mmol/L during transit and rock-bound Fe³⁺ only intermittently at contact surfaces, producing a diffuse and lower-intensity Fe²⁺ signal compared to Firmus's concentrated vent-core output.
+
+The mobility of Novus Liber introduces a spatial dimension to biological chemical modification absent in Firmus populations. Rather than concentrating ecological outputs at fixed attachment sites, Liber distributes methane and Fe²⁺ across the drift range of its electrophoretic movement — spreading biological influence into regions of Pocket A fluid that sessile Firmus populations never reach. By the end of the Erebian Era Novus Liber represents the widest-ranging ecological presence of any organism on Xenos, its chemical signature diffused across the cooler margins of Pocket A in a pattern that will become significant when capture brings new energy sources and environmental pressures to bear.
 ### Relationship to Firmus Ferrovita
 Novus descended from marginal Firmus populations occupying the cooler periphery of Pocket A vent zones. The divergence was gradual — lattice defect variation accumulating over many generations until hydrogen oxidation capacity crossed the threshold of metabolic utility. There was no single divergence event but a progressive shift across a population already operating at the edge of Firmus's viable temperature and Fe³⁺ range.
 

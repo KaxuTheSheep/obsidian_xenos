@@ -47,6 +47,16 @@ Follows [[Ferrovita#Dormancy and Death]] entirely. Firmus-specific dormancy trig
 
 The oldest Firmus individuals may have persisted since the earliest Erebian Era, surviving multiple vent cycles through repeated dormancy and recovery. These ancient organisms carry the most accumulated lattice defect variation of any life on [[Procyon Ab|Xenos]] — their electrochemical architecture is a geological record of [[Procyon Ab|Xenos]]'s entire biological history compressed into mineral structure.
 
+### Ecological Character
+Consumptive, stationary, and chemically dominant.
+
+Firmus is the primary geological consumer of Xenos — the organism most directly responsible for the progressive chemical transformation of Pocket A's vent core environments. Permanently attached to Fe³⁺-rich vent rock and consuming it continuously across geological timescales, Firmus does not merely exploit the chemical energy of its environment but physically dismantles it, liberating iron from mineral structure and releasing it as dissolved Fe²⁺ into surrounding fluid.
+
+The scale of this consumption is significant. Individual Firmus organisms may persist for millions of years without dormancy in stable vent zones, continuously reducing rock-bound Fe³⁺ across an ever-expanding attachment interface. Ancient Firmus colonies represent the most sustained and concentrated sites of biological rock consumption on Xenos — their attachment interfaces are zones of progressive mineral destabilisation extending outward from the original settlement point across geological time.
+
+Fe²⁺ output from Firmus metabolism is the single largest biological contribution to Pocket A's fluid chemistry. The extremely high Fe³⁺ concentrations available at direct vent interfaces, combined with Firmus's privileged access to rock-bound rather than dissolved iron, means Firmus populations generate Fe²⁺ at rates significantly exceeding those of Novus populations in the cooler margins. This output saturates the local fluid environment and propagates outward through Pocket A, contributing to the basin-wide Fe²⁺ enrichment that defines the fluid's reducing character.
+
+Within the vent core zones Firmus dominates without meaningful competition — no other organism on Xenos during the Erebian Era can survive the temperatures and pressures Firmus inhabits, and no other organism can access rock-bound Fe³⁺ with comparable efficiency. Firmus's ecological dominance in its niche is total and unchallenged across the entire Erebian Era.
 ### Relationship to [[Ferrovita Novus]]
 Firmus is the direct ancestor of [[Ferrovita Novus]]. The divergence occurred when local variation in lattice defect patterns in marginal Firmus populations — those occupying the cooler periphery of Pocket A vent zones — altered electron transport behaviour sufficiently to enable hydrogen oxidation as a supplementary energy source. Over time this supplementary pathway became primary in the cooler zones where rock-bound Fe³⁺ was less abundant, producing the Novus domain.
 

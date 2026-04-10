@@ -138,6 +138,18 @@ True death — irreversible cessation — occurs only through three mechanisms:
 #### Post-Death Persistence 
 A dead Ferrovita remains as an intact pyrite mineral structure embedded in rock or vent substrate. It does not decompose. The lattice defect pattern is physically preserved in the mineral indefinitely — a fossil from the moment of death, carrying no functional information but retaining the geometric record of the organism's electrochemical history. Over geological timescales these structures become incorporated into the rock record of [[Procyon Ab|Xenos]], indistinguishable from abiotic mineral formations except to analysis capable of identifying the non-random defect distributions characteristic of biological lattice growth.
 
+### Ecological Character
+Geological, reductive, and ancient.
+
+Ferrovita occupies a position unlike any other life on Xenos — it does not merely inhabit its environment but is physically continuous with it. The boundary between organism and rock is not a meaningful biological distinction at the attachment interface. Ferrovita consumes rock, replaces mineral structure with its own lattice, and expels chemical waste that reshapes the fluid environment around it. At geological timescales Ferrovita is less a community of organisms than a biological overprint on Pocket A's mineralogy.
+
+The dominant ecological output of Ferrovita metabolism is **Fe²⁺ accumulation**. Continuous reduction of rock-bound and dissolved Fe³⁺ releases Fe²⁺ into Pocket A fluid at rates that, summed across billion-year timescales, represent a significant and sustained chemical modification of the vent environment. This output maintains the strongly reducing character of Pocket A — Ferrovita does not merely exploit the reducing conditions it finds but actively reinforces and extends them.
+
+Proton expulsion compounds this effect. Continuous H⁺ output from H₂ activation maintains local acidity around metabolically active organisms, creating a persistent chemical signature that distinguishes living Ferrovita from dormant individuals and inert rock — the only reliable biological indicator in an environment where organism and substrate are otherwise visually and chemically continuous.
+
+Over the Erebian Era the cumulative effect of Ferrovita metabolism is a **progressive shift toward more reduced conditions** in biologically active zones of Pocket A. Vent cores remain dominated by abiotic chemistry — continuously refreshed by hydrothermal flux — but peripheral zones accumulate biological modification over geological time, becoming increasingly Fe²⁺-saturated and chemically distinct from purely abiotic vent environments.
+
+This chemical legacy will carry significant consequences into the Photian Era. Fe²⁺-enriched Pocket A fluid, when hydraulic reconnection brings it into contact with Pocket B's sulphur-rich chemistry, will represent a sudden and dramatic shift in the chemical environment both domains of Sulphovita have never encountered.
 ### Evolutionary Overview
 Ferrovita's evolutionary history across the Erebian Era is a sequence of incremental innovations, each conferring a meaningful survival advantage over the previous grade. Four grades are recognised within the Ferrovita radix, progressing from the original sessile iron reducers through to the fully mobile methanogenic Novus lineage.
 
