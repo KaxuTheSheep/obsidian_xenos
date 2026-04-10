@@ -1,4 +1,3 @@
-
 ```timeline
 
 +
@@ -24,7 +23,7 @@
 
 + ~700 Million AC
   + Emergence of Life — [[Sulphovita Primalis]] Purus
-    + A second, completely independent origin of life appears as [[Sulphovita Primalis]] Purus within chemically distinct regions of the same vent systems. These organisms utilise fluid-phase sulphur chemistry and replicate rapidly compared to [[Ferrovita]]. No interaction occurs between the two radix.
+    + A second, completely independent origin of life appears as [[Sulphovita Primalis]] Purus within chemically distinct regions of vent systems, which is different to the vent system for [[ferrovita]]. These organisms utilise fluid-phase sulphur chemistry and replicate rapidly compared to [[Ferrovita]]. No interaction occurs between the two radix.
 
 + ~600 Million AC
   + [[Ferrovita Firmus]] Tactus Evolution
@@ -49,6 +48,10 @@
   + [[Ferrovita Novus]] Parcus Divergence
     + In cooler vent margins, [[Ferrovita Firmus]] Mobilis populations diverge into [[Ferrovita Novus]] Parcus, creating the first true divide of [[Ferrovita]] into the Firmus and Novus domains. Methanogenesis (**H₂ + CO₂ → CH₄ + H₂O**) emerges as a supplementary metabolism, allowing extended survival during detachment and transit between rock surfaces.
 
++ ~200 Million AC
+  + Extinction of Sulphovita Copula Incitor
+    + Sulphovita Copula Incitor, the first divergent domain-level lineage of the Sulphovita radix, becomes the first extinct organism on Xenos. Squeezed from both sides of its intermediate niche — Sulphovita Primalis dominating H₂S-rich zones and the increasingly refined Sulphovita Copula Solutus outcompeting it even in intermediate zones — Incitor's dual-pathway flexibility becomes a metabolic liability rather than an asset. The overhead cost of maintaining both iron-coordinated and H₂S-primed activation mechanisms cannot compete against Solutus's fully committed iron-coordination machinery in iron-rich zones, nor against Primalis's lower overhead in H₂S-rich zones. Incitor populations collapse progressively across Pocket B's peripheral zones as its viable niche narrows to nothing. No descendants survive. This marks the first extinction event in Xenian biological history.
+
 + ~150 Million AC
   + Emergence of [[Ferrovita Novus]] Liber
     + [[Ferrovita Novus]] Liber evolves as methanogenesis becomes the primary metabolic pathway in Fe³⁺-scarce environments. These organisms spend most of their existence free-floating, representing the first fully untethered life on [[Procyon Ab|Xenos]].
@@ -63,6 +66,7 @@
 
 
 ```
+
 
 
 
