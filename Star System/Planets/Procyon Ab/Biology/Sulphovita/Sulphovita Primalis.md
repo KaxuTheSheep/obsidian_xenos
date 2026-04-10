@@ -112,3 +112,20 @@ Condensus's inward-oriented module clustering makes it less efficient at process
 
 #### Ecological Position
 Condensus dominates clean sulphate-limited high density zones. It is outcompeted by Purus in intermediate-rich fluid where external scavenging efficiency matters more than internal cycling efficiency. The two lineages are chemically entangled — Purus generates the intermediates Condensus cannot scavenge efficiently, while Condensus's sulphate preservation partially benefits Purus by slowing the depletion of their shared sulphate pool. Neither lineage evolved toward this relationship deliberately, but both persist within it across the remainder of the Erebian Era.
+
+### Dormancy and Death
+Follows [[Sulphovita#Dormancy and Death]] for all universal mechanisms.
+
+#### Primalis-Specific Dormancy
+Primalis occupies the most chemically replete zones of Pocket B — vent-proximal regions with the highest and most stable substrate supply. Dormancy is therefore rare in Primalis populations under normal Erebian Era conditions, triggered primarily by localised vent fluctuation rather than basin-wide chemical depletion.
+
+When dormancy does occur Primalis benefits from its dual-pathway architecture. If H₂S depletion is the trigger, the organism's methane oxidation pathway halts simultaneously due to the priming dependency — both pathways fail together rather than sequentially. This means Primalis enters full dormancy rapidly once H₂S falls below threshold, with no partial metabolic state sustained by a fallback pathway.
+
+**Purus** enters dormancy with a loosely distributed peptide network. Module density is lower than Condensus at any given moment, meaning Purus's network reaches the minimum functional threshold faster during degradation. Purus dormancy windows are therefore marginally shorter than Condensus under equivalent conditions.
+
+**Condensus** enters dormancy with a tighter, more densely clustered network. The sulphur processing cluster's close-packed organisation degrades as a unit rather than piecemeal — Condensus either retains functional sulphur cycling or loses it entirely, with less intermediate degradation states than Purus. Condensus dormancy windows are marginally longer but recovery is more binary — either the cluster is intact enough to resume or it is not.
+
+#### Primalis-Specific Death
+Primalis populations in vent-proximal zones face the lowest death risk of any Sulphovita during the Erebian Era. The primary death scenario is permanent vent extinction — if the vent cluster supplying Pocket B ceases activity entirely, substrate depletion drives all Primalis populations into dormancy simultaneously, with death following as the dormancy window expires without recovery.
+
+Thermal denaturation is a non-trivial risk for Primalis given its vent-proximal location. Sudden vent activity intensification or proximity to a new vent opening could expose Primalis populations to temperatures exceeding peptide stability range before relocation is possible — Primalis has no mobility and cannot evacuate a thermally hostile zone.
