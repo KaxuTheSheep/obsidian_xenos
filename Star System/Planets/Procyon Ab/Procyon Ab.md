@@ -42,7 +42,7 @@ See:
 - [[Hydrology]]  
 
 ## [[Atmosphere]]
-Xenos retains a dense primordial [[atmosphere]] (~47 atm), dominated by hydrogen and helium with significant volcanic contributions.
+Xenos retains a dense primordial [[Atmosphere]] (~47 atm), dominated by hydrogen and helium with significant volcanic contributions.
 
 See [[Atmosphere]] for full composition.
 
