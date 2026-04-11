@@ -14,7 +14,7 @@
 
 + ~1 Billion AC
   + Ejection of [[Procyon Ab|Xenos]]
-    + Gravitational instability within its birth system ejects [[Procyon Ab|Xenos]] from its original orbit. During this phase, the planet undergoes repeated collisions with asteroid belt material, accreting significant quantities of water and mineral matter. As it is accelerated out of the system at velocities approaching ~150 km/s, surface temperatures rapidly decline. Any exposed water freezes, initiating the formation of a global ice shell.
+    + Gravitational instability within its birth system ejects [[Procyon Ab|Xenos]] from its original orbit. During this phase, the planet undergoes repeated collisions with asteroid belt material, accreting significant quantities of water and mineral matter. As it is accelerated out of the system at velocities approaching ~40-50 km/s, surface temperatures rapidly decline. Any exposed water freezes, initiating the formation of a global ice shell.
        Once fully ejected into interstellar space, [[Procyon Ab|Xenos]] enters a prolonged rogue phase. The surface remains entirely frozen beneath an ice layer stabilising at ~17 km thickness. Beneath this shell, geothermal heat sustains a global subsurface ocean. Above, a dense primordial [[atmosphere]] persists at ~47 atm, dominated by hydrogen and helium.
 
 + ~800 Million AC

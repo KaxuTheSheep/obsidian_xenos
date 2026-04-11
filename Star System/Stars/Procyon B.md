@@ -30,7 +30,6 @@ This interaction had several lasting consequences:
 - **Envelope ejection:** The outer layers of the red giant were expelled, leaving behind the dense core — now Lethe
 
 ## System Influence
-
 Although faint in visible light, Lethe is a constant and inescapable source of ionizing radiation throughout the [[Procyon]] system. Its ultraviolet output contrasts sharply with the warmer, visible-light dominance of [[Procyon A|Kairos]], creating a dual-radiation environment.
 
 For [[Procyon Ab|Xenos]], this means:
@@ -40,5 +39,4 @@ For [[Procyon Ab|Xenos]], this means:
 - A secondary, colder light source that subtly alters perceived stellar colour and shadowing
 
 ## The Silent Remnant
-
 Lethe is no longer evolving in any dramatic sense — it is a cooling stellar core, radiating away the residual heat of its past life. Unlike [[Procyon A|Kairos]], whose changes unfold over time, Lethe’s transformation is already complete. What remains is a stable, slowly fading ember — a reminder of a violent past event that reshaped the entire system.
