@@ -46,60 +46,61 @@ The third and most specific taxonomic rank. A Lineage represents a distinct popu
 # Biology
 
 ## [[Ferrovita]]
-One of the two founding domains of life on [[Procyon Ab|Xenos]]. Mineral-based, iron-sulphur lattice organisms inhabiting the deepest hydrothermal vent zones. Emerged independently during the Erebian Era. See [[Ferrovita]].
+One of the two founding radices of life on [[Procyon Ab|Xenos]]. Mineral-based, iron-sulphur lattice organisms inhabiting the deepest hydrothermal vent zones. Emerged independently during the Erebian Era. See [[Ferrovita]].
 
 ## [[Sulphovita]]
-One of the two founding domains of life on [[Procyon Ab|Xenos]]. Peptide-based, sulphur-chemistry organisms inhabiting the peripheral hydrothermal vent zones. Emerged independently during the Erebian Era. See [[Sulphovita]].
+One of the two founding radices of life on [[Procyon Ab|Xenos]]. Peptide-based, sulphur-chemistry organisms inhabiting the peripheral hydrothermal vent zones. Emerged independently during the Erebian Era. See [[Sulphovita]].
 
 ## [[Ferrovita]] Firmus
 The ancestral domain of [[Ferrovita]]. Occupies the deepest, hottest vent zones. Primary metabolism is iron reduction. See [[Ferrovita Firmus]].
 
 ## [[Ferrovita]] Firmus Rudis
-The earliest known lineage of [[Ferrovita]] Firmus. Fully sessile, entirely dependent on rock-bound Fe³⁺ reduction, relying on chance for juvenile settlement. The first known life on [[Procyon Ab|Xenos]]. See [[Ferrovita Firmus]].
-
-## [[Ferrovita]] Firmus Tactus
-Descended from Rudis. Juveniles develop electrophoretic drift, allowing passive movement toward Fe³⁺-rich rock surfaces during the juvenile phase. See [[Ferrovita Firmus]].
-
-## [[Ferrovita]] Firmus Mobilis
-Descended from Tactus. Adults develop the ability to detach from depleted rock surfaces and relocate via electrophoresis, eliminating strict dependence on a single substrate location. See [[Ferrovita Firmus]].
+The earliest known lineage of [[Ferrovita]] Firmus and the first known life on [[Procyon Ab|Xenos]]. Fully sessile, entirely dependent on rock-bound Fe³⁺ reduction, relying entirely on chance for juvenile settlement. See [[Ferrovita Firmus]].
 
 ## [[Ferrovita]] Novus
-The derived domain of [[Ferrovita]], descended from Firmus. Occupies cooler vent margins. Primary metabolism shifts from iron reduction toward hydrogen oxidation across the Erebian Era. Represents the first major divergence event within the [[Ferrovita]] domain. See [[Ferrovita Novus]].
-
-## [[Ferrovita]] Novus Parcus
-The earliest lineage of [[Ferrovita]] Novus. Retains iron reduction as primary metabolism but develops methanogenesis as a supplementary pathway during detachment and transit. See [[Ferrovita Novus#Novus Parcus]].
+The derived domain of [[Ferrovita]], descended from Firmus. Occupies cooler vent margins. Primary metabolism shifts from iron reduction toward methanogenesis across the Erebian Era. Represents the first major divergence event within the [[Ferrovita]] radix. See [[Ferrovita Novus]].
 
 ## [[Ferrovita]] Novus Liber
-Descended from Parcus. Methanogenesis becomes the primary metabolic pathway, with iron reduction retained opportunistically. The first fully free-floating life on [[Procyon Ab|Xenos]]. See [[Ferrovita Novus#Novus Liber]].
+The fully free-floating lineage of [[Ferrovita]] Novus. Methanogenesis becomes the primary metabolic pathway, with iron reduction retained opportunistically. The first fully untethered life on [[Procyon Ab|Xenos]]. See [[Ferrovita Novus]].
 
 ## [[Sulphovita Primalis]]
-The ancestral domain of [[Sulphovita]]. Occupies vent-proximal zones of Pocket B. Defined by the foundational dual-pathway metabolism — H₂S oxidation as primary energy source, methane oxidation as coupled secondary pathway dependent on H₂S priming. See [[Sulphovita]].
+The ancestral domain of [[Sulphovita]]. Occupies vent-proximal zones of Pocket B. Defined by the foundational dual-pathway metabolism — H₂S oxidation as primary energy source, methane oxidation as coupled secondary pathway dependent on H₂S priming. See [[Sulphovita Primalis]].
 
-## [[Sulphovita Primalis]] Purus
-The undifferentiated ancestral lineage of [[Sulphovita Primalis]]. Chemically conservative, undiverged, and representative of the founding [[Sulphovita]] biochemical architecture. See [[Sulphovita]].
+## [[Sulphovita Primalis]] Condensus
+Descended from Purus. Sulphur oxidation modules progressively cluster into tight functional proximity, enabling direct intermediate handoff between successive oxidation steps and dramatically reducing intermediate escape. The first instance of proto-division of labour in any organism on [[Procyon Ab|Xenos]]. See [[Sulphovita Primalis]].
 
 ## [[Sulphovita Copula]]
 The first major divergent domain of [[Sulphovita]]. Defined by the development of iron-coordinated methane activation via the Ferric coordinase peptide module, reducing or eliminating dependency on H₂S priming. Occupies peripheral, iron-rich, H₂S-poor zones of Pocket B. See [[Sulphovita Copula]].
-## [[Sulphovita Copula]] Incitor
-The opportunist lineage of [[Sulphovita Copula]]. Switches contextually between iron-coordinated and H₂S-primed methane activation depending on local chemical availability. See [[Sulphovita Copula]].
 
 ## [[Sulphovita Copula]] Solutus
 The specialist lineage of [[Sulphovita Copula]]. H₂S oxidation modules have been completely displaced through distributional marginalisation, leaving iron-coordinated methane oxidation as the sole metabolic pathway. The first organism on [[Procyon Ab|Xenos]] to completely abandon a founding metabolic pathway. See [[Sulphovita Copula]].
 
+## [[Sulphovita Captor]]
+The second major divergent domain of [[Sulphovita]]. Defined by the development of surface-bound peptide fragment cleavage and import, allowing biological debris from dying organisms to be harvested as a monomer resource. The first domain on [[Procyon Ab|Xenos]] to exploit another organism as a resource. See [[Sulphovita Captor]].
+
+## [[Sulphovita Captor]] Carpens
+The specialist lineage of [[Sulphovita Captor]]. Refines fragment cleavage efficiency and develops engulfment capability — the first physical interaction between organisms on [[Procyon Ab|Xenos]]. Capable of enclosing dead organisms within an internal membrane vacuole for direct processing. Foreshadows predatory ecology in the Photian Era. See [[Sulphovita Captor]].
+
 ## Dual Abiogenesis
-The independent emergence of two genetically and biochemically unrelated domains of life — [[Ferrovita]] and [[Sulphovita]] — within the same planetary system during the Erebian Era. The two domains share no common ancestor and arose through entirely separate chemical pathways in distinct fluid environments.
+The independent emergence of two genetically and biochemically unrelated radices of life — [[Ferrovita]] and [[Sulphovita]] — within the same planetary system during the Erebian Era. The two radices share no common ancestor and arose through entirely separate chemical pathways in distinct fluid environments.
 
 ## Distributional Marginalisation
 The mechanism by which [[Sulphovita]] lineages lose functional metabolic pathways. Rather than gene deletion — impossible in a peptide-based architecture with no fixed genome — modules become progressively underrepresented in the peptide network through replication drift and competitive displacement until they fall below the concentration threshold required to sustain catalytic function.
 
 ## Electrophoresis
-The passive movement of a charged organism through fluid along an electrochemical gradient. In [[Ferrovita]], electron accumulation from H₂ input exceeding Fe³⁺ reduction capacity generates a net negative charge across the pyrite shell, causing drift toward Fe³⁺-rich rock surfaces. First observed in [[Ferrovita Firmus]] Tactus juveniles; extended into adult life by [[Ferrovita Novus]] lineages.
+The passive movement of a charged organism through fluid along an electrochemical gradient. In [[Ferrovita]], electron accumulation from H₂ input exceeding Fe³⁺ reduction capacity generates a net negative charge across the pyrite shell, causing drift toward Fe³⁺-rich rock surfaces. First observed in [[Ferrovita Firmus]] Rudis juveniles by chance; refined into directed navigation by Tactus and extended into adult life by [[Ferrovita Novus]] lineages.
 
 ## Conformational Stabilisation
 The replication mechanism of [[Sulphovita]]. An existing peptide motif partially unfolds, exposing its surface topology as a scaffold for the assembly of a similar motif from free monomers in the surrounding fluid. The scaffold stabilises intermediate structures that would otherwise dissolve before achieving functional length, allowing faithful but imperfect copying of peptide motifs without a fixed genetic sequence.
 
 ## Ferric Coordinase
-A peptide module unique to [[Sulphovita]] Copula lineages. Maintains a small internal Fe²⁺/Fe³⁺ redox cycle, using the transition between oxidation states to generate localised radical chemistry sufficient to destabilise the methane C-H bond. Replaces H₂S priming as the methane activation mechanism in Copula lineages.
+A peptide module unique to [[Sulphovita Copula]] lineages. Maintains a small internal Fe²⁺/Fe³⁺ redox cycle, using the transition between oxidation states to generate localised radical chemistry sufficient to destabilise the methane C-H bond. Replaces H₂S priming as the methane activation mechanism in Copula lineages.
+
+## Engulfment
+The extension and fusion of the [[Sulphovita Captor]] Carpens sulphonolipid membrane around an external target, enclosing it within a membrane-bounded internal vacuole for direct processing. The first physical interaction between organisms on [[Procyon Ab|Xenos]]. Currently limited to dead or near-death targets — the precursor to predatory behaviour in the Photian Era.
+
+## Cleavage Module
+A surface-bound peptide module unique to [[Sulphovita Captor]] lineages. Embedded in the outer membrane surface, it binds fragmented peptide structures from the surrounding fluid, cleaves them into segments compatible with existing amino acid import channels, and passes them directly inward. Primitive and imprecise in Legens, significantly refined in Carpens.
 
 ## Methanogenesis
 The metabolic pathway — H₂ + CO₂ → CH₄ + H₂O — first developed by [[Ferrovita Novus]] Parcus as a supplementary energy source during detachment and transit. Becomes the primary metabolism of [[Ferrovita Novus]] Liber. Also produced abiotically through serpentinisation across [[Procyon Ab|Xenos]]'s iron-rich crust.
@@ -112,8 +113,6 @@ The reproductive mechanism of [[Ferrovita]]. Regions of accelerated shell accrua
 
 ## Peptide Motif
 The fundamental unit of [[Sulphovita]] biochemistry. Short, reusable peptide sequences that function simultaneously as structural units, catalytic agents, and carriers of hereditary information. No strict separation exists between genetic material and metabolic machinery — the same molecules perform both roles.
-
-
 # [[Geology]]
 
 ## Pocket A
