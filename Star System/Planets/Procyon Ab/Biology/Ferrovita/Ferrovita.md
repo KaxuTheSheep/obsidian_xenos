@@ -5,6 +5,15 @@ tags:
 ### Overview
 Ferrovita are extremophilic, mineral-based lifeforms inhabiting the deepest hydrothermal vent zones of [[Procyon Ab|Xenos]]. Existing at the boundary between biology and [[Geology]], they are not built from organic polymers but from structured iron–sulphur minerals. Their bodies grow directly from the surrounding rock, forming slow-living, crystalline systems that extract energy from redox gradients in iron-rich fluids. To outside observers, Ferrovita are nearly indistinguishable from vent formations — living structures embedded within the planet’s crust.
 
+### Environmental Niche
+- **Location:** Hydrothermal vent systems within [[Hydrology#Pocket A|Pocket A]], spanning vent cores to cooler margins
+- **Temperature:** ~110–250°C across the full Ferrovita range, varying by domain
+- **Pressure:** Extreme — deepest subsurface zones of the global ocean, beneath ~17 km of ice
+- **Chemistry:** Strongly acidic (pH 0–2), iron-dominated fluid with high H₂ and H₂S flux from vent outflow. Fe²⁺ at ~100–300 mmol/L, Fe³⁺ at ~2–8 mmol/L, dissolved CO₂ at ~5–10 mmol/L
+- **Energy source:** Iron reduction via H₂ electron donation across all domains. Methanogenesis as supplementary or primary metabolism in [[Ferrovita Novus]] lineages.
+
+Ferrovita occupies the most chemically extreme environment on [[Procyon Ab|Xenos]] — zones where temperature, pressure, and acidity exclude all other life. The tight coupling between organism and rock means Ferrovita's niche is defined not merely by fluid chemistry but by mineral availability at direct attachment interfaces. Domain-specific niche details are documented in [[Ferrovita Firmus]] and [[Ferrovita Novus]].
+
 ### Genetics
 Ferrovita encodes information not in molecular sequences but in the **three dimensional pattern of electrochemical properties across its iron-sulphur lattice**. This system has no analogue in carbon-based life — genetics, metabolism, and structure are not separate systems but a single unified electrochemical phenomenon.
 
@@ -150,7 +159,7 @@ Proton expulsion compounds this effect. Continuous H⁺ output from H₂ activat
 Over the Erebian Era the cumulative effect of Ferrovita metabolism is a **progressive shift toward more reduced conditions** in biologically active zones of Pocket A. Vent cores remain dominated by abiotic chemistry — continuously refreshed by hydrothermal flux — but peripheral zones accumulate biological modification over geological time, becoming increasingly Fe²⁺-saturated and chemically distinct from purely abiotic vent environments.
 
 This chemical legacy will carry significant consequences into the Photian Era. Fe²⁺-enriched Pocket A fluid, when hydraulic reconnection brings it into contact with Pocket B's sulphur-rich chemistry, will represent a sudden and dramatic shift in the chemical environment both domains of Sulphovita have never encountered.
-### Evolutionary Overview
+### Evolution
 Ferrovita's evolutionary history across the Erebian Era is a sequence of incremental innovations, each conferring a meaningful survival advantage over the previous grade. Four grades are recognised within the Ferrovita radix, progressing from the original sessile iron reducers through to the fully mobile methanogenic Novus lineage.
 
 The lineage begins with **Ferrovita Rudis** — the most primitive grade, relying entirely on chance for juvenile establishment. From Rudis, two sequential innovations produce **Ferrovita Tactus** and **Ferrovita Mobilis**, each improving survival and resource access while retaining iron reduction as the sole metabolism. At Mobilis the lineage diverges — the majority retain iron reduction as their defining metabolic strategy, remaining within the **[[Ferrovita Firmus]]** domain, while a population developing methanogenic capacity branches into **[[Ferrovita Novus]]**. Novus subsequently diverges into **Novus Parcus** and **Novus Liber**, completing the Erebian Era's biological diversification within the Ferrovita radix.

@@ -7,6 +7,14 @@ Sulphovita is one of the two founding radices of life on Xenos, emerging indepen
 
 All Sulphovita share a common biochemical foundation — peptide-based information encoding, conformational stabilisation as the replication mechanism, and a sulphonolipid membrane as the organismal boundary. Beyond this shared architecture, Sulphovita has diversified into distinct domains across the Erebian Era, each occupying different chemical niches within Pocket B.
 
+### Environmental Niche
+- **Location:** Peripheral zones of hydrothermal vent systems within [[Hydrology#Pocket B|Pocket B]], spanning vent-proximal zones to the furthest peripheral margins
+- **Temperature:** ~50–120°C across the full Sulphovita range, varying by domain
+- **Pressure:** High subsurface, lower than [[Ferrovita]] zones — intermediate depths beneath the global ice shell
+- **Chemistry:** Moderately acidic (pH 3–4), sulphur- and methane-rich fluid. H₂S at ~15–25 mmol/L, SO₄²⁻ at ~50–100 mmol/L, CH₄ at ~10–20 mmol/L, Fe²⁺ at ~15–25 mmol/L, Fe³⁺ at ~10–20 mmol/L
+- **Energy source:** H₂S oxidation as primary pathway, methane oxidation as coupled secondary pathway across all founding Sulphovita. Domain-specific modifications documented in [[Sulphovita Primalis]], [[Sulphovita Copula]], and [[Sulphovita Captor]].
+
+Sulphovita occupies the chemically diverse transitional zones between the extreme vent core conditions of Pocket A and the broader, energetically inert global ocean. These zones are characterised by continuous chemical flux — substrates replenished by vent outflow, depleted by biological activity, and shifted by fluid dynamics. Unlike Ferrovita's stable mineral interfaces, Sulphovita's niche is defined by fluid-phase chemistry that never fully equilibrates, providing the continuous disequilibrium that sustains peptide-based metabolism.
 ### Genetics
 Peptide-based, modular, and distributed.
 
@@ -127,3 +135,27 @@ Death in Sulphovita is the irreversible loss of organismal integrity. Four mecha
 **pH shock** — exposure to fluid chemistry beyond the sulphonolipid membrane's stability range — either extremely high acidity approaching Pocket A conditions or unexpected alkalinity — disrupts membrane integrity and denatures surface-exposed peptide modules simultaneously. Relevant primarily as a Photian Era risk when Pocket A and Pocket B fluids come into contact.
 
 A dead Sulphovita does not persist as a recognisable structure. Without the mineral permanence of Ferrovita's pyrite lattice, the peptide network and sulphonolipid membrane dissolve back into the surrounding fluid within days to weeks of death — their molecular components returning to Pocket B's amino acid and lipid pool where they may be scavenged as raw material by surviving organisms.
+
+### Ecological Character
+Adaptive, rapid, and chemically transformative.
+
+Sulphovita is the dominant biological modifier of Pocket B chemistry across the Erebian Era. Where Ferrovita's ecological outputs are slow and directional — progressively reducing Pocket A over geological timescales — Sulphovita's outputs are rapid, dynamic, and self-reinforcing. Biological activity maintains Pocket B in a state of perpetual chemical disequilibrium rather than driving it toward any single endpoint.
+
+H₂S consumption, sulphate depletion, intermediate accumulation, methane oxidation, and CO₂ production occur simultaneously across Sulphovita populations, creating spatially and temporally shifting chemical gradients that feed back into the selective pressures shaping Sulphovita evolution itself. The ecosystem does not stabilise — it oscillates, with biological activity continuously generating the chemical heterogeneity that drives further diversification.
+
+The emergence of [[Sulphovita Captor]] introduces a second ecological layer — biological material itself becoming a resource. Dead organisms no longer simply dissolve back into the amino acid pool but are intercepted, processed, and incorporated into living populations. By the end of the Erebian Era Pocket B hosts not merely a chemical ecosystem but a nascent biological one, with organisms exploiting other organisms as resources for the first time in Xenian history.
+
+This ecological complexity — built entirely within the dark, isolated subsurface of a rogue planet — enters the Photian Era primed for explosive diversification under the transformative pressure of stellar capture.
+
+### Evolution
+Sulphovita emerged independently from [[Ferrovita]] during the Erebian Era — a completely separate origin of life arising in the peripheral zones of Pocket B's hydrothermal vent systems, chemically isolated from Pocket A by thermal barriers and incompatible fluid chemistry. No common ancestor exists between the two radices.
+
+The founding Sulphovita population — [[Sulphovita Primalis]] Purus — represents the original unmodified biochemical architecture from which all subsequent divergence is measured. Sulphovita's fast replication cycle, operating on timescales of days to weeks compared to Ferrovita's years to centuries, drives evolutionary diversification at rates orders of magnitude faster than the Ferrovita radix. Three domains have diverged across the Erebian Era, each defined by a distinct biochemical innovation:
+
+**[[Sulphovita Primalis]]** — the ancestral domain, retaining the founding dual-pathway metabolism. Diverges internally into Purus and Condensus lineages partitioning the chemical environment based on sulphate availability and intermediate scavenging efficiency.
+
+**[[Sulphovita Copula]]** — the first major divergent domain, defined by iron-coordinated methane activation replacing H₂S priming dependency. Emerges from peripheral Primalis populations under chronic H₂S scarcity. Produces Incitor as an opportunist lineage and Solutus as a committed specialist — the first organism on Xenos to completely abandon a founding metabolic pathway. Incitor subsequently goes extinct, driven out by Solutus.
+
+**[[Sulphovita Captor]]** — the second major divergent domain, defined by peptide fragment scavenging and engulfment. Emerges from Primalis Purus populations under amino acid scarcity at high density zone boundaries. Produces Legens as the founding scavenger lineage and Carpens as the first organism capable of physical interaction with other organisms. Legens subsequently goes extinct, driven out by Carpens.
+
+By the end of the Erebian Era Sulphovita has produced three extant domains, two extinct lineages, and the first predatory pre-adaptation in Xenian biological history — all from a single founding population across approximately 700 million years of rogue phase evolution.
