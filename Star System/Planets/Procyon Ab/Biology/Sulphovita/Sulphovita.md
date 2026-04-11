@@ -12,7 +12,7 @@ All Sulphovita share a common biochemical foundation — peptide-based informati
 - **Temperature:** ~50–120°C across the full Sulphovita range, varying by domain
 - **Pressure:** High subsurface, lower than [[Ferrovita]] zones — intermediate depths beneath the global ice shell
 - **Chemistry:** Moderately acidic (pH 3–4), sulphur- and methane-rich fluid. H₂S at ~15–25 mmol/L, SO₄²⁻ at ~50–100 mmol/L, CH₄ at ~10–20 mmol/L, Fe²⁺ at ~15–25 mmol/L, Fe³⁺ at ~10–20 mmol/L
-- **Energy source:** H₂S oxidation as primary pathway, methane oxidation as coupled secondary pathway across all founding Sulphovita. Domain-specific modifications documented in [[Sulphovita Primalis]], [[Sulphovita Copula]], and [[Sulphovita Captor]].
+- **Energy source:** H₂S oxidation as primary pathway, methane oxidation as coupled secondary pathway across all founding Sulphovita. Domain-specific modifications documented in each domain file. 
 
 Sulphovita occupies the chemically diverse transitional zones between the extreme vent core conditions of Pocket A and the broader, energetically inert global ocean. These zones are characterised by continuous chemical flux — substrates replenished by vent outflow, depleted by biological activity, and shifted by fluid dynamics. Unlike Ferrovita's stable mineral interfaces, Sulphovita's niche is defined by fluid-phase chemistry that never fully equilibrates, providing the continuous disequilibrium that sustains peptide-based metabolism.
 ### Genetics
@@ -62,6 +62,71 @@ Fidelity is not absolute. Variation is introduced continuously through four mech
 
 #### Replication Speed
 Individual motif replication completes in **6–24 hours** under optimal conditions. Whole organism replication operates on a timescale of **days to weeks** under optimal conditions. This is significantly faster than Ferrovita's crystal lattice replication, which operates on timescales of years to centuries.
+
+### Metabolism
+Dual-pathway and opportunistic.
+
+[[Sulphovita]] exploits two redox pathways — hydrogen sulphide oxidation and methane oxidation. Energy capture is distributed across the peptide network rather than centralised, with individual modules contributing to electron transfer via coordination through chemical gradients and concentration signals.
+
+#### Hydrogen Sulphide Oxidation
+H₂S serves as the primary electron donor, with environmental sulphate SO₄²⁻ as the terminal electron acceptor. The pathway proceeds stepwise:
+
+**H₂S → S⁰ → SO₃²⁻ → SO₄²⁻**
+
+Each step releases electrons captured by peptide modules and converted into usable chemical energy. Primary waste products are elemental sulphur S⁰ and thiosulphate S₂O₃²⁻, which accumulate in surrounding fluid. Net sulphur flux is always outward — Sulphovita depends on continuous environmental replenishment of both H₂S and SO₄²⁻.
+
+##### Stepwise Mechanism
+**Step 1 — Sulphide Activation**
+H₂S → S⁰ + 2H⁺ + 2e⁻
+Catalysed by **Sulphide oxidase** — strips the first two electrons from hydrogen sulphide, producing elemental sulphur and releasing protons.
+
+**Step 2 — Sulphur Oxidation**
+S⁰ → SO₃²⁻ + 2e⁻
+Catalysed by **Sulphur oxidase** — oxidises elemental sulphur to sulphite. Sensitive to local SO₄²⁻ concentration.
+
+**Step 3 — Sulphite Oxidation**
+SO₃²⁻ → SO₄²⁻ + 2e⁻
+Catalysed by **Sulphite oxidase** — terminal oxidation step. Sulphate produced here is released into Pocket B fluid, partially replenishing the environmental sulphate pool.
+
+#### Methane Oxidation
+Methane oxidation is a sulphur-coupled anaerobic process in which methane serves as the primary electron donor and sulphate SO₄²⁻ as the terminal electron acceptor:
+
+**CH₄ + SO₄²⁻ → H₂S + CO₂ + H₂O**
+
+##### Activation Dependency
+Methane is chemically stable — the energy barrier to break the first C–H bond cannot be overcome by ambient chemistry alone. Sulphovita resolves this through **metabolic coupling**: energy released by H₂S oxidation is partially captured and redirected to prime methane activation via Methanyl activase. Methane oxidation therefore cannot initiate or sustain itself independently.
+
+##### Stepwise Mechanism
+**Step 1 — Methane Activation**
+CH₄ → CH₃⁻
+Catalysed by **Methanyl activase** — an iron-coordinating peptide module using trace Fe²⁺ from Pocket B fluid to destabilise the first C–H bond. Primed by H₂S oxidation energy.
+
+**Step 2 — Methyl Oxidation**
+CH₃⁻ → CH₂O
+Catalysed by **Methylox transferase** — transfers electrons to the sulphate reduction chain, producing formaldehyde as an intermediate.
+
+**Step 3 — Formyl Oxidation**
+CH₂O → CHO⁻
+Catalysed by **Formyl oxidase** — further oxidation of the carbon intermediate.
+
+**Step 4 — Carbonyl Transfer**
+CHO⁻ → CO
+Catalysed by **Carbonyl transferase** — produces a carbon monoxide intermediate, handled internally without accumulation.
+
+**Step 5 — Final Hydration**
+CO + H₂O → HCO₃⁻ → CO₂
+Catalysed by **Carboxyl hydrase** — terminal step releasing CO₂ and water.
+
+##### Pathway Coupling and Switching
+H₂S oxidation and methane oxidation are not independent — H₂S oxidation is the foundational process that primes methane activation. Pathway behaviour is concentration-driven:
+
+- **High H₂S, high CH₄** — both pathways run simultaneously
+- **High H₂S, low CH₄** — H₂S oxidation dominates
+- **Low H₂S, high CH₄** — methane oxidation halts despite available substrate
+- **Low H₂S, low CH₄** — metabolic activity drops to minimum
+
+#### Sulphur Cycling Efficiency
+Sulphovita's sulphur cycling is incomplete. Elemental sulphur (S⁰) and thiosulphate (S₂O₃²⁻) accumulate as waste in Pocket B fluid rather than being fully cycled internally — net sulphur flux is always outward, and the pathway depends on continuous environmental replenishment of both H₂S and SO₄²⁻ to sustain itself. A partial internal sulphur cycle exists within the peptide network but is insufficient to close the loop under any conditions.
 
 ### Membrane
 Sulphonolipid bilayer, flexible and chemically active.
@@ -150,12 +215,6 @@ This ecological complexity — built entirely within the dark, isolated subsurfa
 ### Evolution
 Sulphovita emerged independently from [[Ferrovita]] during the Erebian Era — a completely separate origin of life arising in the peripheral zones of Pocket B's hydrothermal vent systems, chemically isolated from Pocket A by thermal barriers and incompatible fluid chemistry. No common ancestor exists between the two radices.
 
-The founding Sulphovita population — [[Sulphovita Primalis]] Purus — represents the original unmodified biochemical architecture from which all subsequent divergence is measured. Sulphovita's fast replication cycle, operating on timescales of days to weeks compared to Ferrovita's years to centuries, drives evolutionary diversification at rates orders of magnitude faster than the Ferrovita radix. Three domains have diverged across the Erebian Era, each defined by a distinct biochemical innovation:
-
-**[[Sulphovita Primalis]]** — the ancestral domain, retaining the founding dual-pathway metabolism. Diverges internally into Purus and Condensus lineages partitioning the chemical environment based on sulphate availability and intermediate scavenging efficiency.
-
-**[[Sulphovita Copula]]** — the first major divergent domain, defined by iron-coordinated methane activation replacing H₂S priming dependency. Emerges from peripheral Primalis populations under chronic H₂S scarcity. Produces Incitor as an opportunist lineage and Solutus as a committed specialist — the first organism on Xenos to completely abandon a founding metabolic pathway. Incitor subsequently goes extinct, driven out by Solutus.
-
-**[[Sulphovita Captor]]** — the second major divergent domain, defined by peptide fragment scavenging and engulfment. Emerges from Primalis Purus populations under amino acid scarcity at high density zone boundaries. Produces Legens as the founding scavenger lineage and Carpens as the first organism capable of physical interaction with other organisms. Legens subsequently goes extinct, driven out by Carpens.
+The founding population — [[Sulphovita Primalis]] Purus — represents the original unmodified biochemical architecture from which all subsequent divergence is measured. Sulphovita's replication cycle, operating on timescales of days to weeks compared to Ferrovita's years to centuries, drives evolutionary diversification at rates orders of magnitude faster. Each domain divergence is documented in its respective domain file.
 
 By the end of the Erebian Era Sulphovita has produced three extant domains, two extinct lineages, and the first predatory pre-adaptation in Xenian biological history — all from a single founding population across approximately 700 million years of rogue phase evolution.
