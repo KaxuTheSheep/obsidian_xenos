@@ -2,10 +2,6 @@
 tags:
   - Life
 ---
----
-tags:
-  - Life
----
 ### Overview
 Sulphovita Primalis Purus is the undifferentiated founding lineage of [[Sulphovita Primalis]] and the original unmodified biochemical architecture of the [[Sulphovita]] radix. No metabolic modifications, no structural departures from the founding peptide network organisation. Purus is the reference point against which all subsequent Sulphovita divergence is measured.
 
