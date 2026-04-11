@@ -2,133 +2,100 @@
 tags:
   - Life
 ---
+---
+tags:
+  - Life
+---
 ### Overview
-Novus Ferrovita is the derived domain of [[Ferrovita]], descended from [[Ferrovita Firmus]] through local lattice defect variation in the cooler marginal zones of [[Hydrology#Pocket A|Pocket A]]. Where Firmus is permanently committed to rock-bound iron reduction, Novus represents the first meaningful metabolic diversification in Ferrovita history — developing hydrogen oxidation as a supplementary metabolism that gradually becomes primary across the Erebian Era. Novus is the first life on [[Procyon Ab|Xenos]] capable of sustained detachment and relocation, making it the most mobile organism of the Erebian Era despite operating on geological timescales.
+Ferrovita Novus is the derived domain of [[Ferrovita]], descended from [[Ferrovita Firmus Mobilis]] through lattice defect variation in the cooler marginal zones of [[Hydrology#Pocket A|Pocket A]]. Where Firmus remained committed to rock-bound iron reduction, Novus represents the first meaningful metabolic diversification in Ferrovita history — developing methanogenesis as a supplementary metabolism that gradually becomes primary across the Erebian Era. Novus is the first life on Xenos capable of sustained detachment and relocation, making it the most mobile organism of the Erebian Era despite operating on geological timescales.
+
 ### Environmental Niche
-- **Location:** Cooler vent margins within [[Hydrology#Pocket A|Pocket A]], peripheral to Firmus zones
+- **Location:** Cooler vent margins within [[Hydrology#Pocket A|Pocket A]], peripheral to [[Ferrovita Firmus]] zones
 - **Temperature:** ~110–130°C
 - **Pressure:** High subsurface, lower than Firmus zones
-- **Chemistry:** Lower Fe³⁺ availability than Firmus zones, higher relative CO₂ concentration, strong H₂ flux from vent outflow
-- **Energy source:** Hydrogen oxidation primary (later Novus), iron reduction opportunistic; methanogenesis as transitional metabolism
+- **Chemistry:** Lower Fe³⁺ availability than Firmus zones, higher relative CO₂ concentration at ~5–10 mmol/L, strong H₂ flux from vent outflow
+- **Energy source:** Iron reduction ancestral and retained opportunistically across both lineages. Methanogenesis as supplementary transit metabolism in [[Ferrovita Novus Parcus]], primary metabolism in [[Ferrovita Novus Liber]]
 
 Novus occupies the transitional zone between the extreme vent core chemistry of Firmus and the broader Pocket A fluid environment. These zones are characterised by lower but still significant temperatures, reduced rock-bound Fe³⁺ availability, and greater chemical variability than the stable vent cores Firmus inhabits. This variability is the selective pressure that drove Novus's metabolic diversification.
 
-### Metabolic Evolution
-Novus's metabolism is not static across the Erebian Era but shifts progressively from iron reduction dominant to hydrogen oxidation dominant, reflected in the two grades of the Novus domain.
+### Genetics
+Follows [[Ferrovita#Genetics]] entirely.
 
-#### Iron Reduction
-Iron reduction is the ancestral metabolism inherited from [[Ferrovita Firmus]], retained across both Novus grades as either primary or opportunistic energy acquisition. The core reaction is:
+The metabolic differences distinguishing Novus from Firmus are expressed through differences in defect pattern distribution rather than any architectural change to the genetic system. Novus lattices carry defect configurations at H₂ activation sites that produce electron transport pathways capable of directing electrons toward CO₂ reduction in addition to Fe³⁺ reduction — a routing difference encoded in the existing circuit rather than a new circuit entirely.
 
-**H₂ + 2Fe³⁺ → 2Fe²⁺ + 2H⁺**
+### Membrane
+Follows [[Ferrovita#Membrane]] entirely.
 
-The mechanism follows [[Ferrovita#Metabolism]] entirely — electron transport occurs across the solid-state lattice, with H₂ splitting at activation sites injecting electrons into the conductive network and directing them toward Fe³⁺ reduction zones. In Novus the primary distinction from Firmus is the source of Fe³⁺ — rock-bound Fe³⁺ at direct attachment interfaces where available, dissolved Fe³⁺ from Pocket A fluid during transit and free-floating periods.
+### Metabolism
+Follows [[Ferrovita#Metabolism]] entirely for iron reduction — the core reaction, stepwise mechanism, and waste products are unchanged from the radix. Iron reduction remains the higher-yield pathway and is prioritised whenever Fe³⁺ availability permits.
 
-Fe³⁺ availability in Novus zones is lower than in Firmus vent cores — rock surfaces are more widely spaced and dissolved Fe³⁺ in Pocket A fluid sits at ~2–8 mmol/L. This scarcity is the primary selective pressure driving methanogenesis development across Novus grades.
-
-**Waste products:** Fe²⁺ released into Pocket A fluid, H⁺ expelled outward maintaining local acidity.
+Novus's metabolic distinction is the addition of methanogenesis as a second electron destination within the existing lattice architecture. See [[Ferrovita Novus#Methanogenesis]] below.
 
 #### Methanogenesis
 Methanogenesis is Novus's defining metabolic innovation — hydrogen oxidation coupled to CO₂ reduction:
 
 **H₂ + CO₂ → CH₄ + H₂O**
 
-The reaction uses the same H₂ splitting mechanism as iron reduction but redirects electrons toward CO₂ rather than Fe³⁺. This redirection is encoded in lattice defect configurations at H₂ activation sites — specific defect patterns produce electron transport pathways capable of routing electrons toward CO₂ reduction zones within the lattice when Fe³⁺ availability drops below threshold.
+The reaction uses the same H₂ splitting mechanism as iron reduction but redirects electrons toward CO₂ rather than Fe³⁺. This redirection is encoded in lattice defect configurations at H₂ activation sites — specific defect patterns produce electron transport pathways capable of routing electrons toward CO₂ reduction zones when Fe³⁺ availability drops below threshold.
 
 ##### Stepwise Mechanism
-**Step 1 — H₂ Splitting** H₂ → 2H⁺ + 2e⁻ Identical to the iron reduction mechanism — H₂ diffuses through microfractures into the lattice interior, undergoing oxidative splitting at activation sites where defect geometry creates the appropriate electrochemical environment. Electrons are injected into the conductive lattice network.
+**Step 1 — H₂ Splitting**
+H₂ → 2H⁺ + 2e⁻
+Identical to the iron reduction mechanism — H₂ diffuses through microfractures into the lattice interior, undergoing oxidative splitting at activation sites where defect geometry creates the appropriate electrochemical environment. Electrons are injected into the conductive lattice network.
 
-**Step 2 — Electron Routing** Electrons enter the lattice and are directed by the defect pattern toward CO₂ reduction sites rather than Fe³⁺ reduction sites. The routing is concentration-dependent — when dissolved Fe³⁺ is abundant electrons are preferentially directed toward Fe³⁺ reduction as the higher-yield pathway. When Fe³⁺ falls below threshold the defect pattern directs electrons toward CO₂ reduction instead. This is not an active switching mechanism but a passive electrochemical response to gradient conditions.
+**Step 2 — Electron Routing**
+Electrons enter the lattice and are directed by the defect pattern toward CO₂ reduction sites rather than Fe³⁺ reduction sites. The routing is concentration-dependent — when dissolved Fe³⁺ is abundant electrons are preferentially directed toward Fe³⁺ reduction as the higher-yield pathway. When Fe³⁺ falls below threshold the defect pattern directs electrons toward CO₂ reduction instead. This is not an active switching mechanism but a passive electrochemical response to gradient conditions.
 
-**Step 3 — CO₂ Reduction** CO₂ + 2e⁻ → intermediate carbon species CO₂ dissolved in Pocket A fluid at ~5–10 mmol/L diffuses into the lattice and undergoes sequential reduction at CO₂ reduction sites. The reduction proceeds through intermediate carbon species analogous to the steps of terrestrial methanogenesis but occurring across solid-state lattice surfaces rather than through molecular enzyme pathways.
+**Step 3 — CO₂ Reduction**
+CO₂ + 2e⁻ → intermediate carbon species
+CO₂ dissolved in Pocket A fluid at ~5–10 mmol/L diffuses into the lattice and undergoes sequential reduction at CO₂ reduction sites. The reduction proceeds through intermediate carbon species analogous to terrestrial methanogenesis but occurring across solid-state lattice surfaces rather than through molecular enzyme pathways.
 
-**Step 4 — Methane Release** Fully reduced carbon is expelled as CH₄ through microfractures into surrounding Pocket A fluid. Water is simultaneously produced and expelled. Methane accumulates locally in Pocket A fluid, with any long range diffusion toward Pocket B remaining ecologically negligible during the Erebian Era.
+**Step 4 — Methane Release**
+Fully reduced carbon is expelled as CH₄ through microfractures into surrounding Pocket A fluid. Water is simultaneously produced and expelled. Methane accumulates locally in Pocket A fluid — ecologically negligible during the Erebian Era but a sustained and increasing chemical output as Liber populations grow across the latter half of the era.
 
 ##### Pathway Switching
-Methanogenesis and iron reduction are not truly independent pathways but competing destinations for the same electron supply. Switching is passive and concentration-driven:
+Methanogenesis and iron reduction are competing destinations for the same electron supply. Switching is passive and concentration-driven:
 
 - **Fe³⁺ abundant** — iron reduction dominates, methanogenesis minimal
 - **Fe³⁺ scarce, CO₂ available** — methanogenesis dominates, iron reduction opportunistic
 - **Fe³⁺ scarce, CO₂ scarce** — metabolic activity reduced, organism enters low activity state or dormancy
 
-In Ferrovita Novus Parcus this switching operates primarily during detachment — iron reduction dominates at rock surfaces, methanogenesis sustains transit. In Ferrovita Novus Liber methanogenesis runs continuously as the default state, iron reduction activating opportunistically upon rock contact.
-
 ##### Energy Yield
-Methanogenesis yields significantly less energy per reaction than rock-bound iron reduction — the free energy of CO₂ reduction to methane is lower than Fe³⁺ reduction from mineral surfaces. Novus therefore operates at a lower sustained energy flux than Firmus when methanogenesis is primary. The tradeoff is independence from rock substrate — lower energy yield sustained continuously outcompetes higher energy yield available only intermittently during rock contact.
+Methanogenesis yields significantly less energy per reaction than rock-bound iron reduction. Novus therefore operates at a lower sustained energy flux than Firmus when methanogenesis is primary. The tradeoff is independence from rock substrate — lower energy yield sustained continuously outcompetes higher energy yield available only intermittently during rock contact.
+
 ### Electrophoresis and Navigation
-Novus retains the electrophoretic juvenile navigation mechanism described in [[Ferrovita#Juvenile Phase]] and extends it into adult life as a general navigation strategy.
+Follows [[Ferrovita#Electrophoresis and Navigation]] entirely.
 
-The mechanism follows the same physical principle throughout — electron accumulation in the lattice from H₂ input exceeding Fe³⁺ reduction capacity creates a net negative charge across the pyrite shell. This charge interacts with the electrochemical landscape of Pocket A fluid, generating drift toward regions of highest Fe³⁺ concentration — specifically Fe³⁺-rich rock surfaces.
+Novus retains electrophoretic juvenile navigation from Firmus and extends it into adult life as a general navigation strategy. The mechanism is identical throughout — electron accumulation from H₂ input exceeding Fe³⁺ reduction capacity generates a net negative charge, producing passive drift toward Fe³⁺-rich rock surfaces.
 
-In early Novus this mechanism operates primarily during the juvenile phase and during post-detachment transit — analogous to Firmus juvenile navigation but with the added capacity for repeated use across the organism's lifespan rather than only at establishment.
+In Parcus electrophoresis operates primarily during the juvenile phase and post-detachment transit. In Liber the mechanism operates continuously as the primary spatial orientation system — free-floating Liber organisms maintain a persistent low-level electrochemical charge allowing continuous passive drift along Fe³⁺ gradients, periodically bringing them into contact with rock surfaces for iron reduction supplementation before detaching and resuming free drift.
 
-In later Novus the mechanism operates continuously as the primary spatial orientation system. Free-floating later Novus organisms maintain a persistent low-level electrochemical charge that allows continuous passive drift along Fe³⁺ gradients, periodically bringing them into contact with rock surfaces for iron reduction supplementation before detaching and resuming free drift.
-
-Given Xenos's 2.4g gravity and the dense pyrite composition of Ferrovita, electrophoretic movement remains extremely slow across both early and later Novus. Navigation is passive drift rather than active directed movement — Novus does not pursue Fe³⁺ sources so much as inevitably drift toward them along electrochemical gradients over extended timescales.
-
-### Genetics
-Follows [[Ferrovita#Genetic Architecture]] entirely. Novus inherited iron-sulphur lattice defect encoding from Firmus — the same information storage mechanism, the same defect categories, the same propagation through templated crystallisation.
-
-The metabolic differences distinguishing Novus from Firmus are expressed through differences in defect pattern distribution rather than any architectural change to the genetic system itself. Specifically, Novus lattices carry defect configurations at H₂ activation sites that produce electron transport pathways capable of directing electrons toward CO₂ reduction in addition to Fe³⁺ reduction — a routing difference encoded in the circuit rather than a new circuit entirely.
-
-Variation sources and replication speed follow [[Ferrovita#Variation Sources]] and [[Ferrovita#Replication Speed]]. Novus replication is marginally faster than Firmus on average due to lower temperatures at vent margins reducing crystal growth thermodynamic constraints slightly, but remains firmly within the years to centuries timescale of all Ferrovita reproduction.
+Electrophoretic movement remains extremely slow given Xenos's 2.4g gravity and dense pyrite composition. Navigation is passive drift rather than active directed movement — Novus inevitably drifts toward Fe³⁺ sources along electrochemical gradients over extended timescales rather than actively pursuing them.
 
 ### Reproduction
-Follows [[Ferrovita#Reproduction]] entirely for the budding mechanism, defect inheritance, and variation. 
+Follows [[Ferrovita#Reproduction]] entirely.
 
-Novus-specific juvenile phase:
-
-The juvenile phase follows the electrophoretic navigation mechanism described in [[Ferrovita Novus#Electrophoresis and Navigation]] and [[Ferrovita#Juvenile Phase]]. Novus juveniles use the same electron accumulation and electrophoretic drift toward Fe³⁺-rich rock as Firmus juveniles, with the additional advantage that if initial rock attachment fails or local Fe³⁺ is insufficient, the juvenile can sustain itself on methanogenesis long enough to attempt navigation toward an alternative surface.
-
-This gives Novus juveniles meaningfully higher survival rates than Firmus juveniles — the methanogenesis fallback extends the viable window for rock attachment significantly. Novus populations therefore grow faster than Firmus populations despite occupying less energetically rich zones, a consequence of improved juvenile survival rather than faster individual reproduction.
+Novus juveniles use electrophoretic drift toward Fe³⁺-rich rock as in Firmus, with the additional advantage that if initial rock attachment fails or local Fe³⁺ is insufficient, the juvenile can sustain itself on methanogenesis long enough to attempt navigation toward an alternative surface. This methanogenesis fallback extends the viable window for rock attachment significantly, giving Novus juveniles meaningfully higher survival rates than Firmus juveniles and driving faster population growth despite occupying less energetically rich zones.
 
 ### Dormancy and Death
-Follows [[Ferrovita#Dormancy and Death]] for all general mechanisms.
+Follows [[Ferrovita#Dormancy and Death]] for all universal mechanisms.
 
-Novus-specific detail: dormancy is significantly rarer in Novus than Firmus. Where Firmus has no response to local Fe³⁺ depletion other than dormancy or death, Novus detaches and relocates. True dormancy in Novus occurs only when H₂ supply itself becomes insufficient — a less common scenario in Pocket A's vent margins than Fe³⁺ depletion alone. This makes Novus populations more resilient to localised vent chemistry fluctuations than Firmus, contributing to their eventual dominance in the marginal zones of Pocket A.
+Dormancy is significantly rarer in Novus than Firmus. Where Firmus has no response to local Fe³⁺ depletion other than dormancy or death, Novus detaches and relocates. True dormancy in Novus occurs only when H₂ supply itself becomes insufficient — a less common scenario in Pocket A's vent margins than localised Fe³⁺ depletion alone.
 
 ### Ecological Character
 Mobile, methane-producing, and marginally transformative.
 
-Ferrovita Novus occupies the transitional zones between Firmus's vent core dominance and the broader Pocket A fluid environment. Where Firmus is a stationary geological consumer, Novus is the first ecological actor on Xenos capable of sustained movement — carrying biological chemical modification away from fixed vent interfaces and distributing it across the broader fluid environment of Pocket A's cooler margins.
+Where Firmus is a stationary geological consumer, Novus is the first ecological actor on Xenos capable of sustained movement — carrying biological chemical modification away from fixed vent interfaces and distributing it across the broader fluid environment of Pocket A's cooler margins.
 
-The primary ecological output distinguishing Novus from Firmus is **methane production**. Methanogenesis in Ferrovita Novus Parcus begins as a minor transitional metabolism, but as Novus Liber emerges and methanogenesis becomes the primary metabolic pathway, methane accumulation in Pocket A fluid becomes a sustained and increasing chemical output. Over the latter half of the Erebian Era Liber populations represent a continuous methane source in the cooler vent margins — a biological contribution to Pocket A's gas chemistry that has no abiotic equivalent at equivalent rates.
+The primary ecological output distinguishing Novus from Firmus is methane production. Methanogenesis in Parcus begins as a minor transitional metabolism, but as Liber emerges and methanogenesis becomes the primary metabolic pathway, methane accumulation in Pocket A fluid becomes a sustained and increasing chemical output. Over the latter half of the Erebian Era Liber populations represent a continuous methane source in the cooler vent margins — a biological contribution to Pocket A's gas chemistry with no abiotic equivalent at equivalent rates.
 
-CO₂ drawdown accompanies methane production — methanogenesis consumes dissolved CO₂ at ~5–10 mmol/L in Pocket A fluid, creating localised depletion zones around high density Liber populations. This effect remains spatially limited due to continuous vent replenishment but represents a genuine biological modification of carbon chemistry in the vent margins.
+CO₂ drawdown accompanies methane production, creating localised depletion zones around high density Liber populations. Fe²⁺ output from Novus iron reduction is significantly lower than Firmus's contribution — diffuse and lower-intensity, produced intermittently during rock contact rather than continuously at fixed attachment sites.
 
-Fe²⁺ output from Novus iron reduction, while present, is significantly lower than Firmus's contribution — Novus accesses dissolved Fe³⁺ at 2–8 mmol/L during transit and rock-bound Fe³⁺ only intermittently at contact surfaces, producing a diffuse and lower-intensity Fe²⁺ signal compared to Firmus's concentrated vent-core output.
+The mobility of Liber introduces a spatial dimension to biological chemical modification absent in all prior Ferrovita. By the end of the Erebian Era Novus Liber represents the widest-ranging ecological presence of any organism on Xenos, its chemical signature diffused across the cooler margins of Pocket A in a pattern that will become significant when capture brings new energy sources and environmental pressures to bear.
 
-The mobility of Novus Liber introduces a spatial dimension to biological chemical modification absent in Firmus populations. Rather than concentrating ecological outputs at fixed attachment sites, Liber distributes methane and Fe²⁺ across the drift range of its electrophoretic movement — spreading biological influence into regions of Pocket A fluid that sessile Firmus populations never reach. By the end of the Erebian Era Novus Liber represents the widest-ranging ecological presence of any organism on Xenos, its chemical signature diffused across the cooler margins of Pocket A in a pattern that will become significant when capture brings new energy sources and environmental pressures to bear.
-### Relationship to Firmus Ferrovita
-Novus descended from marginal Firmus populations occupying the cooler periphery of Pocket A vent zones. The divergence was gradual — lattice defect variation accumulating over many generations until hydrogen oxidation capacity crossed the threshold of metabolic utility. There was no single divergence event but a progressive shift across a population already operating at the edge of Firmus's viable temperature and Fe³⁺ range.
+### Evolution
+Ferrovita Novus emerges at approximately 280 Million AC from [[Ferrovita Firmus Mobilis]] populations in the cooler vent margins of Pocket A. The divergence was gradual — lattice defect variation accumulating across many generations until methanogenic capacity crossed the threshold of metabolic utility in populations already operating at the edge of Firmus's viable Fe³⁺ range. There was no single divergence event but a progressive shift driven by chronic Fe³⁺ scarcity in the marginal zones.
 
-Spatial partitioning between Firmus and Novus is maintained by their differing environmental tolerances — Firmus dominates the hottest direct vent zones, Novus the cooler margins. Overlap zones at intermediate conditions host both domains. In these zones Firmus's superior rock-bound Fe³⁺ access gives it a metabolic advantage while Novus's mobility and methanogenesis fallback allow it to persist and exploit resources Firmus cannot reach.
+Spatial partitioning between Firmus and Novus is maintained by differing environmental tolerances — Firmus dominates the hottest direct vent zones, Novus the cooler margins. Overlap zones at intermediate conditions host both domains, where Firmus's superior rock-bound Fe³⁺ access gives it a metabolic advantage but Novus's mobility and methanogenesis fallback allow it to persist and exploit resources Firmus cannot reach. The two domains do not interact biochemically in any meaningful way during the Erebian Era — their relationship is spatial coexistence and passive resource partitioning.
 
-The two domains do not interact biochemically in any meaningful way during the Erebian Era — their waste products do not significantly affect each other's chemistry at the spatial scales and concentrations present in Pocket A. Their relationship is one of spatial coexistence and passive resource partitioning rather than active competition or cooperation.
-
-### Evolutionary History
-Ferrovita Novus diverges from [[Ferrovita Firmus]] at the Mobilis grade — a Mobilis population in the cooler vent margins of [[Hydrology#Pocket A|Pocket A]] develops methanogenic capacity, enabling hydrogen oxidation coupled to CO₂ reduction as a supplementary metabolism. From this divergence point two further grades emerge within the Novus domain.
-
-#### Ferrovita Novus Parcus
-*Innovation: methanogenesis as supplementary transit metabolism.*
-
-Ferrovita Novus Parcus is the earliest Novus lineage — a Mobilis-equivalent organism that has developed the capacity to perform methanogenesis but has not yet shifted its metabolic centre of gravity away from iron reduction. The methanogenic capacity arises from lattice defect configurations at H₂ activation sites that produce electron transport pathways capable of directing electrons toward CO₂ reduction in addition to Fe³⁺ reduction — a routing difference in the existing circuit rather than a new metabolic system.
-
-Parcus uses methanogenesis exclusively as a transitional metabolism during detachment and transit between rock surfaces. When attached to Fe³⁺-rich rock iron reduction dominates entirely — methanogenesis contributes negligibly when rock-bound Fe³⁺ is abundant. When detached and navigating via electrophoresis methanogenesis sustains reduced but viable metabolic activity, extending the juvenile and transit survival window significantly beyond what Mobilis can achieve on dissolved Fe³⁺ alone.
-
-##### Competitive Position
-The selective advantage over Mobilis is most pronounced in the cooler vent margins where Fe³⁺-rich rock surfaces are more widely spaced — the extended transit survival window allows Parcus to cross larger distances between suitable attachment sites, accessing rock surfaces that Mobilis juveniles and detached adults cannot reach before their gradients decay. In zones where rock surfaces are densely packed Mobilis and Parcus coexist without strong competitive exclusion. Parcus dominates progressively as rock surface spacing increases toward the cooler vent margins.
-
-Methane waste accumulates locally in Pocket A fluid as a consequence of Parcus methanogenesis. During the Erebian Era this output is ecologically insignificant at the scale of the broader subsurface water system. Its ecological significance belongs to the Photian Era.
-#### Ferrovita Novus Liber
-*Innovation: methanogenesis as primary metabolism — the first fully untethered life on Xenos.*
-
-Ferrovita Novus Liber emerges from Parcus populations through progressive selection favouring longer methanogenic transit periods in the Fe³⁺-scarce cooler margins. Over many generations the metabolic balance shifts — defect configurations supporting methanogenesis become more elaborate and efficient, eventually reaching a threshold where methanogenesis alone can sustain not just transit but continuous independent existence.
-
-At this threshold Liber no longer requires rock attachment as its default metabolic state. Methanogenesis runs continuously, iron reduction is retained as a high-yield opportunistic supplement when electrophoretic drift brings the organism into contact with Fe³⁺-rich rock, but survival is no longer dependent on rock contact. Liber spends the majority of its existence as a free-floating organism within Pocket A fluid — the first life on [[Procyon Ab|Xenos]] genuinely untethered from a substrate.
-
-The transition from Parcus to Liber is not a single event but a gradual population-level shift — there is no sharp boundary between a late Parcus organism and an early Liber organism. The lineage distinction reflects the point at which methanogenesis becomes sufficient for continuous independent existence rather than merely extended transit survival.
-
-##### Competitive Position
-Liber does not directly compete with Parcus for the same resources — their differing metabolic centres of gravity place them in distinct ecological roles. Parcus remains the dominant rock-attached Novus lineage, exploiting Fe³⁺-rich surfaces with iron reduction as primary metabolism. Liber dominates the open fluid zones between rock surfaces, sustaining itself on methanogenesis and periodically supplementing with iron reduction on contact. The two lineages partition Pocket A's cooler margins spatially — Parcus at rock surfaces, Liber in the fluid between them.
-
-Liber represents the most metabolically and spatially liberated organism of the Erebian Era — a demonstration that Ferrovita's iron-sulphur lattice architecture, despite its geological character and glacial timescales, is capable of genuine evolutionary innovation given sufficient time and selective pressure.
+Novus diversifies into two lineages across the Erebian Era, each representing a different stage in the progressive shift from iron reduction to methanogenesis as the primary metabolism. Each lineage documents its own divergence in detail.
