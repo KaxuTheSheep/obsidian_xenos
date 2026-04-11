@@ -51,6 +51,3 @@ specific divergence event and relationship to sibling lineages.]
 [Any unique biological mechanism warranting dedicated documentation
 e.g. Electrophoresis and Navigation, Iron-Coordinated Methane Activation]
 
-### [Lineage Name]
-*Innovation: [single line defining the lineage's key innovation]*
-[Overview, mechanism, competitive position]
