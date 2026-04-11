@@ -35,6 +35,9 @@
 + ~500 Million AC
   + Emergence of [[Sulphovita Copula]] Incitor
     + In the peripheral zones of Pocket B, chronically low H₂S availability drives divergence from [[Sulphovita Primalis]] populations. [[Sulphovita Copula]] Incitor emerges as the first organism on [[Procyon Ab|Xenos]] to develop iron-coordinated methane activation via the Ferric coordinase peptide module, supplemented by a dedicated iron retention membrane system. Incitor does not abandon H₂S oxidation but operates opportunistically, switching between activation mechanisms based on local chemical availability. This marks the first major domain-level divergence within the [[Sulphovita]] radix and the emergence of the Copula lineage.
++ ~450 Million AC
+  + Emergence of Sulphovita Captor Legens
+    + At the boundaries of high density Sulphovita Primalis zones, sustained population activity depletes free amino acid availability below viable abiotic replenishment rates. Sulphovita Captor Legens emerges from Sulphovita Primalis Purus populations as surface-bound cleavage modules develop, allowing fragmented peptide debris from dying organisms to be processed and imported through existing amino acid transport channels. Legens becomes the first organism on Xenos to exploit another organism as a resource, marking the transition from a purely chemotrophic ecosystem to one with a biological resource layer. Cleavage efficiency is limited — significant fragment material is lost back to surrounding fluid before import — but the innovation provides immediate competitive advantage in debris-rich zones, displacing Purus populations at high density boundaries. This marks the emergence of the Sulphovita Captor domain.
 
 + ~400 Million AC
   + [[Ferrovita Firmus]] Mobilis Evolution
@@ -48,14 +51,21 @@
   + [[Ferrovita Novus]] Parcus Divergence
     + In cooler vent margins, [[Ferrovita Firmus]] Mobilis populations diverge into [[Ferrovita Novus]] Parcus, creating the first true divide of [[Ferrovita]] into the Firmus and Novus domains. Methanogenesis (**H₂ + CO₂ → CH₄ + H₂O**) emerges as a supplementary metabolism, allowing extended survival during detachment and transit between rock surfaces.
 
++ ~250 Million AC
+  + Emergence of Sulphovita Captor Carpens
+    + Descending from Sulphovita Captor Legens populations, Sulphovita Captor Carpens emerges through progressive refinement of the cleavage mechanism and the development of engulfment capability. Carpens becomes the first organism on Xenos to physically interact with another organism — detecting recently dead Sulphovita during the pre-rupture window and extending its sulphonolipid membrane around them, enclosing their full peptide and lipid content within an internal engulfment vacuole for direct processing. This represents a dramatically more efficient resource acquisition strategy than passive fragment scavenging and marks the first physical interaction between organisms in Xenian biological history. Carpens begins displacing Legens across all Captor-occupied zones.
 + ~200 Million AC
   + Extinction of Sulphovita Copula Incitor
     + Sulphovita Copula Incitor, the first divergent domain-level lineage of the Sulphovita radix, becomes the first extinct organism on Xenos. Squeezed from both sides of its intermediate niche — Sulphovita Primalis dominating H₂S-rich zones and the increasingly refined Sulphovita Copula Solutus outcompeting it even in intermediate zones — Incitor's dual-pathway flexibility becomes a metabolic liability rather than an asset. The overhead cost of maintaining both iron-coordinated and H₂S-primed activation mechanisms cannot compete against Solutus's fully committed iron-coordination machinery in iron-rich zones, nor against Primalis's lower overhead in H₂S-rich zones. Incitor populations collapse progressively across Pocket B's peripheral zones as its viable niche narrows to nothing. No descendants survive. This marks the first extinction event in Xenian biological history.
+
 
 + ~150 Million AC
   + Emergence of [[Ferrovita Novus]] Liber
     + [[Ferrovita Novus]] Liber evolves as methanogenesis becomes the primary metabolic pathway in Fe³⁺-scarce environments. These organisms spend most of their existence free-floating, representing the first fully untethered life on [[Procyon Ab|Xenos]].
 
++ ~100 Million AC
+  + Extinction of Sulphovita Captor Legens
+    + Sulphovita Captor Legens becomes the second extinct organism in Xenian biological history. Outcompeted across all zones by Sulphovita Captor Carpens — whose superior cleavage efficiency and engulfment capability provide advantages in both debris-rich and debris-scarce conditions — Legens populations collapse progressively as Carpens displaces them from every viable niche. Unlike Sulphovita Copula Incitor, which was squeezed between two competing lineages, Legens is driven to extinction by a single direct descendant whose innovations render the ancestral lineage nonviable in all conditions.
 +
 + Photian Era
 +
@@ -66,7 +76,6 @@
 
 
 ```
-
 
 
 
