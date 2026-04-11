@@ -2,10 +2,6 @@
 tags:
   - Life
 ---
----
-tags:
-  - Life
----
 ### Overview
 Ferrovita Novus is the derived domain of [[Ferrovita]], descended from [[Ferrovita Firmus Mobilis]] through lattice defect variation in the cooler marginal zones of [[Hydrology#Pocket A|Pocket A]]. Where Firmus remained committed to rock-bound iron reduction, Novus represents the first meaningful metabolic diversification in Ferrovita history — developing methanogenesis as a supplementary metabolism that gradually becomes primary across the Erebian Era. Novus is the first life on Xenos capable of sustained detachment and relocation, making it the most mobile organism of the Erebian Era despite operating on geological timescales.
 
