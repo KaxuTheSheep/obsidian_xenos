@@ -10,7 +10,7 @@ Before the capture of [[Procyon Ab|Xenos]] into the [[Procyon]] system. Used as 
 After the capture of [[Procyon Ab|Xenos]] into the [[Procyon]] system. Used as a [[timeline]] marker, analogous to CE. Dates are expressed as {number} PC, counting forward from the moment of capture (0 PC).
 
 
-# Eras
+# Geological Timescale
 
 ## Ignic Era
 The first era of [[Procyon Ab|Xenos]]'s history, during which the planet formed and existed within its birth system around an unknown red dwarf star. Characterised by geological formation, cooling, and the establishment of early crustal and hydrological conditions. No life present. Ends with the ejection of [[Procyon Ab|Xenos]] from its birth system.
@@ -21,6 +21,8 @@ The second era, beginning with [[Procyon Ab|Xenos]]'s ejection from its birth sy
 ## Photian Era
 The third era, beginning at the moment of capture into the [[Procyon]] system. Light arrives on [[Procyon Ab|Xenos]] for the first time. Characterised by atmospheric transformation, surface melting, and the explosive diversification of life. Named for Phos, the Greek primordial deity of light. Currently unnamed beyond this point.
 
+## Desmos Period
+The first period of the Photian Era, beginning at the moment of [[Procyon Ab|Xenos]]'s gravitational capture into the [[Procyon]] system (0 PC) and ending when its initial eccentric orbit fully circularises at approximately 75 Million PC. Characterised by tidal heating pulses from the eccentric orbit, ice shell fracturing, the initial atmospheric stripping burst, and the gradual establishment of Xenos's stable orbital position at ~30 AU from the Kairos-Lethe barycentre. Named for Desmos, the Greek primordial deity of binding and chains. The first period in Xenian history defined by stellar influence rather than geological or biological events.
 
 # Taxonomy
 
