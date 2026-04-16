@@ -68,13 +68,15 @@
     + Sulphovita Captor Legens becomes the second extinct organism in Xenian biological history. Outcompeted across all zones by Sulphovita Captor Carpens — whose superior cleavage efficiency and engulfment capability provide advantages in both debris-rich and debris-scarce conditions — Legens populations collapse progressively as Carpens displaces them from every viable niche. Unlike Sulphovita Copula Incitor, which was squeezed between two competing lineages, Legens is driven to extinction by a single direct descendant whose innovations render the ancestral lineage nonviable in all conditions.
 +
 + Photian Era
-+
++ Desmos Period
 
 + 0 AC / 0 PC
   + Capture of [[Procyon Ab|Xenos]]
     + [[Procyon Ab|Xenos]] is gravitationally captured into the [[Procyon]] system through a three-body interaction, becoming [[Procyon Ab]]. Light reaches the planet for the first time, initiating the Photian Era and setting the stage for interaction between [[Ferrovita]] and [[Sulphovita]] radix.
 
-
++ ~75 Million PC 
+  + End of Desmos Period 
+    + Xenos's captured orbit fully circularises at ~30 AU from the Kairos-Lethe barycentre. Tidal heating pulses cease as eccentricity reaches near-zero. The Desmos Period ends and the broader Photian Era continues under stable orbital conditions.
 ```
 
 
